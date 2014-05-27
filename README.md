@@ -2,3 +2,60 @@ wabio
 =====
 
 wabio-bioinformatics toolbox
+
+Overview
+
+Example distributed BLAST workflow that can run in parallel on a single multi-processor machine or fully distributed on a Hadoop cluster. The application is to compare a reference genome in FASTA format against many different organism databases. Using BLAST, the best sequence similarity hit in each database is identified and summarized in a tab separated output file.
+
+The job can be parallelized by input organism, by each protein in the organism genome, and by each BLAST comparison. This provides an interesting example application for demonstrating Hadoop and multi-processor parallelization. It also lends itself to cloud computation on Amazon EC2 resources, allowing distribution as a ready to replicate experiment with source controlled scripts and publicly available data volumes.
+
+Installation
+
+The scripts requires a recent version of Python 2 (2.6 or 2.7) and NCBI's blast+. You install the required python libraries and scripts with:
+
+pip install bcbio-phyloblast
+Usage
+
+To start the comparison process, prepare a directory structure like:
+
+├── base_config.yaml
+├── dbs
+│   ├── custom
+│   │   ├── Acoerulea_195_protein.fa
+│   │   ├── Alyrata_107_protein.fa
+│   │   └── Athaliana_167_protein.fa
+└── org_configs
+    ├── Athaliana_167_protein.yaml
+    └── org_list.csv
+dbs/custom contains a set of FASTA proteins for each organism of interest.
+
+base_config.yaml is a small YAML configuration file
+
+org_file: org_configs/org_list.csv
+db_dir: dbs
+work_dir: tmp
+num_cores: 4
+url_timeout: 20
+evalue_thresh: 10
+blast_cmd: blastp
+blastdb_cmd: makeblastdb
+org_list.csv is a simple text file containing the lists of organisms to compare against on each line:
+
+  Acoerulea
+  Alyrata
+  Athaliana
+The base organism configuration, Athaliana_167_protein.yaml in this example, specifies the target organism and FASTA file:
+
+  target_org: Athaliana
+  search_file: dbs/custom/Athaliana_167_protein.fa
+Set up organism databases
+
+The next step is to prepare the BLAST databases and internal configuration files for analysis. Run this step during setup and whenever you update the list of organisms to process:
+
+retrieve_org_dbs.py base_config.yaml
+Running on a multicore machine
+
+Finally, run the analysis with the organism and base configuration files:
+
+blast_cross_orgs.py org_configs/Athaliana_167_protein.yaml base_config.yaml
+This will produce two output files, Athaliana-ids.tsv and Athaliana-scores.tsv, containing a matrix of the top match hit ID and score.

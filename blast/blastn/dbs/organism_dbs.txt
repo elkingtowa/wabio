@@ -1,0 +1,3 @@
+Caenorhabditis_elegans.ncrna	custom/Caenorhabditis_elegans.ncrna
+Drosophila_melanogaster.ncrna	custom/Drosophila_melanogaster.ncrna
+Homo_sapiens.ncrna	custom/Homo_sapiens.ncrna

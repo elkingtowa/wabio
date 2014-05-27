@@ -1,0 +1,8 @@
+org_file: /Users/Elkington/Downloads/sid/org_configs/org_list.csv
+db_dir: dbs
+work_dir: tmp
+num_cores: 4
+url_timeout: 20
+evalue_thresh: 10
+blast_cmd: blastn
+blastdb_cmd: makeblastdb
