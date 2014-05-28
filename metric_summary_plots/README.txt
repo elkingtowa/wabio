@@ -1,0 +1,1 @@
+This module generates distributions of summary-level metrics across all samples in the diversity panel.
