@@ -1,0 +1,7 @@
+(defmacro ntimes (n &rest body)
+  (let ((g (gensym))
+        (h (gensym)))
+    '(let ((,h ,n))
+      (do ((,g 0 (+ ,g 1)))
+          ((>= ,g ,h))
+        ,@body))))
