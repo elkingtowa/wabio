@@ -1,0 +1,14 @@
+details:
+  - algorithm:
+      #aligner: false
+      #recalibrate: false
+      #realign: false
+      aligner: novoalign
+      variantcaller: gatk
+      quality_format: Standard
+      coverage_interval: regional
+    analysis: variant
+    description: Test1
+    genome_build: hg19
+    lane: 7
+    files: [7_100326_FC6107FAAXX.bam]

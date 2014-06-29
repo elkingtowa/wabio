@@ -1,0 +1,70 @@
+galaxy_config: universe_wsgi.ini
+algorithm:
+  aligner: bowtie
+  max_errors: 2
+  num_cores: 1
+  platform: illumina
+  recalibrate: false
+  snpcall: false
+  bc_mismatch: 2
+  bc_read: 1
+  bc_position: 3
+  bc_illumina_no_trailing: true
+  java_memory: 3g
+  save_diskspace: true
+  upload_fastq: false
+
+# configuration algorithm changes for custom post-processing steps
+custom_algorithms:
+  variant:
+    aligner: bwa
+    recalibrate: true
+    snpcall: true
+    coverage_depth: "low" # other options: high
+    coverage_interval: "exome" # other options: genome
+    dbsnp: variation/dbsnp_132.vcf
+    train_hapmap: variation/hapmap_3.3.vcf
+    train_1000g_omni: variation/1000G_omni2.5.vcf
+    train_indels: variation/Mills_Devine_2hit.indels.vcf
+  'RNA-seq':
+    aligner: tophat
+    transcript_assemble: true
+    transcripts: rnaseq/ref-transcripts.gtf
+    transcripts_mask: rnaseq/ref-transcripts-mask.gtf
+  'Minimal':
+    aligner: ""
+# Define resources to be used for individual programs on multicore machines.
+# These can be defined specifically for memory and processor availability.
+# Distributed systems 
+# - Specify usage for memory intensive programs
+# - Define cores that can be used for multicore programs.
+resources:
+  bcbio_variation:
+    dir: /usr/share/java/bcbio_variation
+  ucsc_bigwig:
+    memory: 36g
+  bowtie:
+    cores:
+  tophat:
+    cores: 
+  bwa:
+    cores: 2
+  novoalign:
+    cores: 2
+    memory: 4G
+  gatk:
+    cores: 2
+    dir: /usr/share/java/gatk
+  picard:
+    cores: 1
+    dir: /usr/share/java/picard
+  snpEff:
+    dir: /usr/share/java/snpeff
+  varscan:
+    dir: /usr/share/java/varscan
+  stampy:
+    dir: ~/install/stampy-1.0.18
+  cortex:
+    dir: ~/install/CORTEX_release_v1.0.5.14
+  vcftools:
+    dir: ~/install/vcftools_0.1.9
