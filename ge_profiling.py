@@ -6,9 +6,9 @@
 
 #2 modules - RNAseq and microarray
 
-"" microarray module ""
+""" microarray module """
 
 
-"" RNAseq moduel ""
+""" RNAseq moduel """
 
 
