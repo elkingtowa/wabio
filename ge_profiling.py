@@ -8,7 +8,12 @@
 
 """ microarray module """
 
+ma = read.file( )
 
-""" RNAseq moduel """
+#order data in columns and cluster the rows
 
+""" RNAseq module """
 
+rs = read.file( )
+
+#order data in columns and cluster the rows
