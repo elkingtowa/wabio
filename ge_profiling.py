@@ -10,10 +10,24 @@
 
 ma = read.file( )
 
+
+#correlate
+
+
+#cluster
+
+
+
 #order data in columns and cluster the rows
 
 """ RNAseq module """
 
 rs = read.file( )
+
+#correlate
+
+#cluster
+
+
 
 #order data in columns and cluster the rows
