@@ -4,6 +4,11 @@
 #input = patterns of gene expression
 #output = correlation between inputs
 
+#packages
+#which ones do I need?
+
+
+
 #2 modules - RNAseq and microarray
 
 """ microarray module """
@@ -12,6 +17,7 @@ ma = read.file( )
 
 
 #correlate
+
 
 
 #cluster
