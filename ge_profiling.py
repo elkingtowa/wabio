@@ -7,7 +7,7 @@
 #packages
 #which ones do I need?
 
-
+import numpy as np
 
 #2 modules - RNAseq and microarray
 
