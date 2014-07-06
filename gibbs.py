@@ -12,6 +12,7 @@ rate of change of lifespan curve = sl
 sl is different in time at 90% mortality and 50% mortality
 
 delg = -R*T(ln([S]*((max lifespan/rate of change of lifespan curve)-1)))
+
 """
 """
 N2_text = open('3.7_gibbs-N2.txt','r')
