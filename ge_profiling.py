@@ -8,6 +8,7 @@
 #which ones do I need?
 
 import numpy as np
+%pylab inline
 
 #2 modules - RNAseq and microarray
 
