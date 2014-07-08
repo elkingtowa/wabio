@@ -8,6 +8,8 @@
 #which ones do I need?
 
 import numpy as np
+import pandas as pd
+import matplotlib as plt
 %pylab inline
 
 #2 modules - RNAseq and microarray
