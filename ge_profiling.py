@@ -40,3 +40,9 @@ rs = read.file( )
 
 
 #order data in columns and cluster the rows
+
+
+#plot
+
+plt.plot
+plt.show
