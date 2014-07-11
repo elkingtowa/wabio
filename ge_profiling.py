@@ -5,7 +5,6 @@
 #output = correlation between inputs
 
 #packages
-#which ones do I need?
 
 import numpy as np
 import pandas as pd
