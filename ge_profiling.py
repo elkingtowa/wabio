@@ -11,7 +11,7 @@ import pandas as pd
 import matplotlib as plt
 import pylab
 
-#2 modules - RNAseq and microarray
+#modules - RNAseq and microarray
 
 """ microarray module """
 
