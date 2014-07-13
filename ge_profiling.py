@@ -12,6 +12,7 @@ import matplotlib as plt
 import pylab
 
 #modules - RNAseq and microarray
+#find patterns in data sets
 
 """ microarray module """
 
