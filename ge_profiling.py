@@ -17,7 +17,7 @@ import pylab
 """ microarray module """
 
 ma = read.file( )
-
+rnaseq = read.file( )
 
 #correlate
 
