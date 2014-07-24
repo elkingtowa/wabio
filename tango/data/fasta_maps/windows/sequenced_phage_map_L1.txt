@@ -1,0 +1,3 @@
+JoeDirt(L1)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/JoeDirt.fasta
+LeBron(L1)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/LeBron.fasta
+UPIE(L1)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/UPIE.fasta

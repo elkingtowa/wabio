@@ -1,0 +1,3 @@
+Bernal13(T)	/users/bsiranos/projects/phage_fasta/Bernal13.fasta
+Mendokysei(T)	/users/bsiranos/projects/phage_fasta/Mendokysei.fasta
+RonRayGun(T)	/users/bsiranos/projects/phage_fasta/RonRayGun.fasta

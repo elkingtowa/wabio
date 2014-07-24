@@ -1,0 +1,16 @@
+Ariel(J)	/users/bsiranos/projects/phage_fasta/Ariel.fasta
+BAKA(J)	/users/bsiranos/projects/phage_fasta/BAKA.fasta
+Courthouse(J)	/users/bsiranos/projects/phage_fasta/Courthouse.fasta
+Duke13(J)	/users/bsiranos/projects/phage_fasta/Duke13.fasta
+EricMillard(J)	/users/bsiranos/projects/phage_fasta/EricMillard.fasta
+Halley(J)	/users/bsiranos/projects/phage_fasta/Halley.fasta
+Klein(J)	/users/bsiranos/projects/phage_fasta/Klein.fasta
+LittleE(J)	/users/bsiranos/projects/phage_fasta/LittleE.fasta
+Lucky2013(J)	/users/bsiranos/projects/phage_fasta/Lucky2013.fasta
+MiaZeal(J)	/users/bsiranos/projects/phage_fasta/MiaZeal.fasta
+Minerva(J)	/users/bsiranos/projects/phage_fasta/Minerva.fasta
+Omega(J)	/users/bsiranos/projects/phage_fasta/Omega.fasta
+Optimus(J)	/users/bsiranos/projects/phage_fasta/Optimus.fasta
+Redno2(J)	/users/bsiranos/projects/phage_fasta/Redno2.fasta
+Thibault(J)	/users/bsiranos/projects/phage_fasta/Thibault.fasta
+Wanda(J)	/users/bsiranos/projects/phage_fasta/Wanda.fasta

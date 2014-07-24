@@ -1,0 +1,14 @@
+Artemis2UCLA(A6)	/users/bsiranos/projects/phage_fasta/Artemis2UCLA.fasta
+Blue7(A6)	/users/bsiranos/projects/phage_fasta/Blue7.fasta
+CloudWang3(A6)	/users/bsiranos/projects/phage_fasta/CloudWang3.fasta
+DaVinci(A6)	/users/bsiranos/projects/phage_fasta/DaVinci.fasta
+EricB(A6)	/users/bsiranos/projects/phage_fasta/EricB.fasta
+Gladiator(A6)	/users/bsiranos/projects/phage_fasta/Gladiator.fasta
+Hammer(A6)	/users/bsiranos/projects/phage_fasta/Hammer.fasta
+Jeffabunny(A6)	/users/bsiranos/projects/phage_fasta/Jeffabunny.fasta
+JewelBug(A6)	/users/bsiranos/projects/phage_fasta/JewelBug.fasta
+Kazan(A6)	/users/bsiranos/projects/phage_fasta/Kazan.fasta
+McFly(A6)	/users/bsiranos/projects/phage_fasta/McFly.fasta
+SuperAwesome(A6)	/users/bsiranos/projects/phage_fasta/SuperAwesome.fasta
+VohminGhazi(A6)	/users/bsiranos/projects/phage_fasta/VohminGhazi.fasta
+Zaka(A6)	/users/bsiranos/projects/phage_fasta/Zaka.fasta

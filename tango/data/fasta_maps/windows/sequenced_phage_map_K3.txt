@@ -1,0 +1,3 @@
+Keshu(K3)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Keshu.fasta
+MacnCheese(K3)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/MacnCheese.fasta
+Pixie(K3)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Pixie.fasta

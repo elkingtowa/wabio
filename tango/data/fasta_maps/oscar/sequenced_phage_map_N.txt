@@ -1,0 +1,7 @@
+Butters(N)	/users/bsiranos/projects/phage_fasta/Butters.fasta
+Carcharodon(N)	/users/bsiranos/projects/phage_fasta/Carcharodon.fasta
+Charlie(N)	/users/bsiranos/projects/phage_fasta/Charlie.fasta
+MichelleMyBell(N)	/users/bsiranos/projects/phage_fasta/MichelleMyBell.fasta
+Redi(N)	/users/bsiranos/projects/phage_fasta/Redi.fasta
+SkinnyPete(N)	/users/bsiranos/projects/phage_fasta/SkinnyPete.fasta
+Xerxes(N)	/users/bsiranos/projects/phage_fasta/Xerxes.fasta

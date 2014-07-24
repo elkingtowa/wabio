@@ -1,0 +1,3 @@
+Babsiella(I1)	/users/bsiranos/projects/phage_fasta/Babsiella.fasta
+Brujita(I1)	/users/bsiranos/projects/phage_fasta/Brujita.fasta
+Island3(I1)	/users/bsiranos/projects/phage_fasta/Island3.fasta

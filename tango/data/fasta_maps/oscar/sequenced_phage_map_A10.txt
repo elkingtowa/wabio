@@ -1,0 +1,7 @@
+Goose(A10)	/users/bsiranos/projects/phage_fasta/Goose.fasta
+KittenMittens(A10)	/users/bsiranos/projects/phage_fasta/KittenMittens.fasta
+Rebeuca(A10)	/users/bsiranos/projects/phage_fasta/Rebeuca.fasta
+RhynO(A10)	/users/bsiranos/projects/phage_fasta/RhynO.fasta
+Severus(A10)	/users/bsiranos/projects/phage_fasta/Severus.fasta
+Trike(A10)	/users/bsiranos/projects/phage_fasta/Trike.fasta
+Twister(A10)	/users/bsiranos/projects/phage_fasta/Twister.fasta

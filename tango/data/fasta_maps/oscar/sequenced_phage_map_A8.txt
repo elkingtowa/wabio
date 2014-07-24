@@ -1,0 +1,4 @@
+Astro(A8)	/users/bsiranos/projects/phage_fasta/Astro.fasta
+Expelliarmus(A8)	/users/bsiranos/projects/phage_fasta/Expelliarmus.fasta
+Saintus(A8)	/users/bsiranos/projects/phage_fasta/Saintus.fasta
+Smeadley(A8)	/users/bsiranos/projects/phage_fasta/Smeadley.fasta

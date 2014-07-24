@@ -1,0 +1,16 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 309988
+##  Job Name : HiC_GFP_l1_r0
+##  Nodelist : node827
+##      CPUs : 1
+##  Mem/Node : 65536 MB
+## Directory : /gpfs/home/bsiranos/projects/prostate_hic/batch_scripts
+##   Started : Sat Jul  5 10:24:08 EDT 2014
+###############################################################################
+/gpfs/runtime/opt/samtools/0.1.19/bin/samtools
+/gpfs/runtime/opt/samtools/0.1.19/bin/samtools
+Starting mapping on GFP_l1_r0 at 2014-07-05 10:24:31
+
+[?1034h> /gpfs/runtime/opt/hiclib/2014-03-11/src/hiclib/mapping.py(365)iterative_mapping()
+-> seq_start, seq_end, raw_seq_len))
+(Pdb) 

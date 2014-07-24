@@ -1,0 +1,5 @@
+Avani(F2)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Avani.fasta
+Che9d(F2)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Che9d.fasta
+Jabbawokkie(F2)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Jabbawokkie.fasta
+Yoshi(F2)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Yoshi.fasta
+Zapner(F2)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Zapner.fasta

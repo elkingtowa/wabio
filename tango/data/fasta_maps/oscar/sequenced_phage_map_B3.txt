@@ -1,0 +1,13 @@
+Akoma(B3)	/users/bsiranos/projects/phage_fasta/Akoma.fasta
+Athena(B3)	/users/bsiranos/projects/phage_fasta/Athena.fasta
+Audrey(B3)	/users/bsiranos/projects/phage_fasta/Audrey.fasta
+Bernardo(B3)	/users/bsiranos/projects/phage_fasta/Bernardo.fasta
+Compostia(B3)	/users/bsiranos/projects/phage_fasta/Compostia.fasta
+Daisy(B3)	/users/bsiranos/projects/phage_fasta/Daisy.fasta
+Gadjet(B3)	/users/bsiranos/projects/phage_fasta/Gadjet.fasta
+Heathcliff(B3)	/users/bsiranos/projects/phage_fasta/Heathcliff.fasta
+Kamiyu(B3)	/users/bsiranos/projects/phage_fasta/Kamiyu.fasta
+Phaedrus(B3)	/users/bsiranos/projects/phage_fasta/Phaedrus.fasta
+Phlyer(B3)	/users/bsiranos/projects/phage_fasta/Phlyer.fasta
+Pipefish(B3)	/users/bsiranos/projects/phage_fasta/Pipefish.fasta
+Yahalom(B3)	/users/bsiranos/projects/phage_fasta/Yahalom.fasta

@@ -1,0 +1,5 @@
+Cheetobro(K4)	/users/bsiranos/projects/phage_fasta/Cheetobro.fasta
+Fionnbharth(K4)	/users/bsiranos/projects/phage_fasta/Fionnbharth.fasta
+SamScheppers(K4)	/users/bsiranos/projects/phage_fasta/SamScheppers.fasta
+Slarp(K4)	/users/bsiranos/projects/phage_fasta/Slarp.fasta
+Taquito(K4)	/users/bsiranos/projects/phage_fasta/Taquito.fasta

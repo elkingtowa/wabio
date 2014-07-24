@@ -1,0 +1,15 @@
+module: loading 'hiclib/2014-03-11'
+module: loading 'bowtie2/2.0.6'
+module: loading 'samtools/0.1.19'
+10000000 reads; of these:
+  10000000 (100.00%) were unpaired; of these:
+    922155 (9.22%) aligned 0 times
+    6489585 (64.90%) aligned exactly 1 time
+    2588260 (25.88%) aligned >1 times
+90.78% overall alignment rate
+3510415 reads; of these:
+  3510415 (100.00%) were unpaired; of these:
+    921755 (26.26%) aligned 0 times
+    466644 (13.29%) aligned exactly 1 time
+    2122016 (60.45%) aligned >1 times
+73.74% overall alignment rate

@@ -1,0 +1,6 @@
+Collard(K5)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Collard.fasta
+Gengar(K5)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Gengar.fasta
+Kratio(K5)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Kratio.fasta
+Larva(K5)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Larva.fasta
+OkiRoe(K5)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/OkiRoe.fasta
+Omnicron(K5)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Omnicron.fasta

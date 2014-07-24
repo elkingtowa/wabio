@@ -1,0 +1,3 @@
+JoeDirt(L1)	/users/bsiranos/projects/phage_fasta/JoeDirt.fasta
+LeBron(L1)	/users/bsiranos/projects/phage_fasta/LeBron.fasta
+UPIE(L1)	/users/bsiranos/projects/phage_fasta/UPIE.fasta

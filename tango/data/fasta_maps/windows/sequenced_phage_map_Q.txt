@@ -1,0 +1,5 @@
+Evanesce(Q)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Evanesce.fasta
+Giles(Q)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Giles.fasta
+HH92(Q)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/HH92.fasta
+Kinbote(Q)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Kinbote.fasta
+OBUpride(Q)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/OBUpride.fasta

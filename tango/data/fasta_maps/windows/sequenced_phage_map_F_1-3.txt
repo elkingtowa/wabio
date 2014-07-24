@@ -1,0 +1,3 @@
+Ardmore(F1)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Ardmore.fasta
+Avani(F2)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Avani.fasta
+Squirty(F3)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Squirty.fasta

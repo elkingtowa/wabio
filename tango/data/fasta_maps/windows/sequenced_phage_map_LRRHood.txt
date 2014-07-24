@@ -1,0 +1,5 @@
+LRRHood(C1)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/LRRHood.fasta
+Alice(C1)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Alice.fasta
+ArcherS7(C1)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/ArcherS7.fasta
+Astraea(C1)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Astraea.fasta
+Ava3(C1)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Ava3.fasta

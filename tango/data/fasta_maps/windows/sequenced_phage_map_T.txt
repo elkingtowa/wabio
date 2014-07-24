@@ -1,0 +1,3 @@
+Bernal13(T)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Bernal13.fasta
+Mendokysei(T)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Mendokysei.fasta
+RonRayGun(T)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/RonRayGun.fasta

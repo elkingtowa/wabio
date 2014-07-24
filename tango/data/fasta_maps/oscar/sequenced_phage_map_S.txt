@@ -1,0 +1,2 @@
+Marvin(S)	/users/bsiranos/projects/phage_fasta/Marvin.fasta
+MosMoris(S)	/users/bsiranos/projects/phage_fasta/MosMoris.fasta

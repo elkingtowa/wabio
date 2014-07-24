@@ -1,0 +1,3 @@
+Acadian(B5)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Acadian.fasta
+Phelemich(B5)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Phelemich.fasta
+Reprobate(B5)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Reprobate.fasta

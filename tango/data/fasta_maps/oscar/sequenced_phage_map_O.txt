@@ -1,0 +1,5 @@
+Catdawg(O)	/users/bsiranos/projects/phage_fasta/Catdawg.fasta
+Corndog(O)	/users/bsiranos/projects/phage_fasta/Corndog.fasta
+Dylan(O)	/users/bsiranos/projects/phage_fasta/Dylan.fasta
+Firecracker(O)	/users/bsiranos/projects/phage_fasta/Firecracker.fasta
+YungJamal(O)	/users/bsiranos/projects/phage_fasta/YungJamal.fasta

@@ -1,0 +1,6 @@
+Collard(K5)	/users/bsiranos/projects/phage_fasta/Collard.fasta
+Gengar(K5)	/users/bsiranos/projects/phage_fasta/Gengar.fasta
+Kratio(K5)	/users/bsiranos/projects/phage_fasta/Kratio.fasta
+Larva(K5)	/users/bsiranos/projects/phage_fasta/Larva.fasta
+OkiRoe(K5)	/users/bsiranos/projects/phage_fasta/OkiRoe.fasta
+Omnicron(K5)	/users/bsiranos/projects/phage_fasta/Omnicron.fasta

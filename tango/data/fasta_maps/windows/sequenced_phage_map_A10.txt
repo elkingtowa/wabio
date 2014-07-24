@@ -1,0 +1,7 @@
+Goose(A10)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Goose.fasta
+KittenMittens(A10)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/KittenMittens.fasta
+Rebeuca(A10)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Rebeuca.fasta
+RhynO(A10)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/RhynO.fasta
+Severus(A10)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Severus.fasta
+Trike(A10)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Trike.fasta
+Twister(A10)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Twister.fasta

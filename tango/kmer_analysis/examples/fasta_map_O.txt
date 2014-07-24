@@ -1,0 +1,5 @@
+Catdawg-O,examples\fasta\Catdawg.fasta
+Corndog-O,examples\fasta\Corndog.fasta
+Dylan-O,examples\fasta\Dylan.fasta
+Firecracker-O,examples\fasta\Firecracker.fasta
+YungJamal-O,examples\fasta\YungJamal.fasta

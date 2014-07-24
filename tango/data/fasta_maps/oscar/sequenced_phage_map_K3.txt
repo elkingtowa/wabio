@@ -1,0 +1,3 @@
+Keshu(K3)	/users/bsiranos/projects/phage_fasta/Keshu.fasta
+MacnCheese(K3)	/users/bsiranos/projects/phage_fasta/MacnCheese.fasta
+Pixie(K3)	/users/bsiranos/projects/phage_fasta/Pixie.fasta

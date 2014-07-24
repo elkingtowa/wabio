@@ -1,0 +1,5 @@
+Cheetobro(K4)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Cheetobro.fasta
+Fionnbharth(K4)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Fionnbharth.fasta
+SamScheppers(K4)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/SamScheppers.fasta
+Slarp(K4)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Slarp.fasta
+Taquito(K4)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Taquito.fasta

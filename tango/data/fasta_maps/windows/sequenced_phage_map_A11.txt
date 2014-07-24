@@ -1,0 +1,4 @@
+Bachome(A11)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Bachome.fasta
+Et2Brutus(A11)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Et2Brutus.fasta
+Fibonacci(A11)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Fibonacci.fasta
+Mulciber(A11)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Mulciber.fasta

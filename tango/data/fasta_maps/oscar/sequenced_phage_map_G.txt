@@ -1,0 +1,14 @@
+Angel(G)	/users/bsiranos/projects/phage_fasta/Angel.fasta
+Annihilator(G)	/users/bsiranos/projects/phage_fasta/Annihilator.fasta
+Avrafan(G)	/users/bsiranos/projects/phage_fasta/Avrafan.fasta
+BPs(G)	/users/bsiranos/projects/phage_fasta/BPs.fasta
+BQuat(G)	/users/bsiranos/projects/phage_fasta/BQuat.fasta
+BruceB(G)	/users/bsiranos/projects/phage_fasta/BruceB.fasta
+Cherrybomb426(G)	/users/bsiranos/projects/phage_fasta/Cherrybomb426.fasta
+Frosty24(G)	/users/bsiranos/projects/phage_fasta/Frosty24.fasta
+Gomashi(G)	/users/bsiranos/projects/phage_fasta/Gomashi.fasta
+Halo(G)	/users/bsiranos/projects/phage_fasta/Halo.fasta
+Hope(G)	/users/bsiranos/projects/phage_fasta/Hope.fasta
+Liefie(G)	/users/bsiranos/projects/phage_fasta/Liefie.fasta
+Phreak(G)	/users/bsiranos/projects/phage_fasta/Phreak.fasta
+Zombie(G)	/users/bsiranos/projects/phage_fasta/Zombie.fasta

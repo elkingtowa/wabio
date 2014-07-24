@@ -1,0 +1,3 @@
+JoeDirt-L1,fasta/JoeDirt.fasta
+Archie-L2,fasta/Archie.fasta
+Whirlwind-L3,fasta/Whirlwind.fasta

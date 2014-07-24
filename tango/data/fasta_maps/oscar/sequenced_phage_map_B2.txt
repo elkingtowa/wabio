@@ -1,0 +1,10 @@
+Arbiter(B2)	/users/bsiranos/projects/phage_fasta/Arbiter.fasta
+Ares(B2)	/users/bsiranos/projects/phage_fasta/Ares.fasta
+Eaglehorse(B2)	/users/bsiranos/projects/phage_fasta/Eaglehorse.fasta
+Hedgerow(B2)	/users/bsiranos/projects/phage_fasta/Hedgerow.fasta
+Kheth(B2)	/users/bsiranos/projects/phage_fasta/Kheth.fasta
+Laurie(B2)	/users/bsiranos/projects/phage_fasta/Laurie.fasta
+LizLemon(B2)	/users/bsiranos/projects/phage_fasta/LizLemon.fasta
+Qyrzula(B2)	/users/bsiranos/projects/phage_fasta/Qyrzula.fasta
+Rosebush(B2)	/users/bsiranos/projects/phage_fasta/Rosebush.fasta
+TA17A(B2)	/users/bsiranos/projects/phage_fasta/TA17A.fasta

@@ -1,0 +1,4 @@
+Astro(A8)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Astro.fasta
+Expelliarmus(A8)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Expelliarmus.fasta
+Saintus(A8)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Saintus.fasta
+Smeadley(A8)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Smeadley.fasta

@@ -1,0 +1,4 @@
+Alma(A9)	/users/bsiranos/projects/phage_fasta/Alma.fasta
+Catalina(A9)	/users/bsiranos/projects/phage_fasta/Catalina.fasta
+Myxus(A9)	/users/bsiranos/projects/phage_fasta/Myxus.fasta
+PackMan(A9)	/users/bsiranos/projects/phage_fasta/PackMan.fasta

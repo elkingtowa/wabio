@@ -1,0 +1,2191 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.2.29+</BlastOutput_version>
+  <BlastOutput_reference>Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb Miller (2000), &quot;A greedy algorithm for aligning DNA sequences&quot;, J Comput Biol 2000; 7(1-2):203-14.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>5567</BlastOutput_query-ID>
+  <BlastOutput_query-def>DS6A Final Sequence, 60588 bp including 12 bp 3&apos; overhang (CGAGGCCGACAT), Singleton</BlastOutput_query-def>
+  <BlastOutput_query-len>60588</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>1</Parameters_sc-match>
+      <Parameters_sc-mismatch>-2</Parameters_sc-mismatch>
+      <Parameters_gap-open>0</Parameters_gap-open>
+      <Parameters_gap-extend>0</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>5567</Iteration_query-ID>
+  <Iteration_query-def>DS6A Final Sequence, 60588 bp including 12 bp 3&apos; overhang (CGAGGCCGACAT), Singleton</Iteration_query-def>
+  <Iteration_query-len>60588</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|126232413|gb|CP000580.1|</Hit_id>
+  <Hit_def>Mycobacterium sp. JLS, complete genome</Hit_def>
+  <Hit_accession>CP000580</Hit_accession>
+  <Hit_len>6048425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.2994</Hsp_bit-score>
+      <Hsp_score>51</Hsp_score>
+      <Hsp_evalue>8.08612e-16</Hsp_evalue>
+      <Hsp_query-from>36356</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>3856043</Hsp_hit-from>
+      <Hsp_hit-to>3855993</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>51</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>51</Hsp_align-len>
+      <Hsp_qseq>TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>89.7595</Hsp_bit-score>
+      <Hsp_score>48</Hsp_score>
+      <Hsp_evalue>3.76211e-14</Hsp_evalue>
+      <Hsp_query-from>36356</Hsp_query-from>
+      <Hsp_query-to>36403</Hsp_query-to>
+      <Hsp_hit-from>3869136</Hsp_hit-from>
+      <Hsp_hit-to>3869089</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>48</Hsp_align-len>
+      <Hsp_qseq>TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAG</Hsp_qseq>
+      <Hsp_hseq>TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|119692146|gb|CP000518.1|</Hit_id>
+  <Hit_def>Mycobacterium sp. KMS, complete genome</Hit_def>
+  <Hit_accession>CP000518</Hit_accession>
+  <Hit_len>5737227</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.2994</Hsp_bit-score>
+      <Hsp_score>51</Hsp_score>
+      <Hsp_evalue>8.08612e-16</Hsp_evalue>
+      <Hsp_query-from>36356</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>3922910</Hsp_hit-from>
+      <Hsp_hit-to>3922860</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>51</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>51</Hsp_align-len>
+      <Hsp_qseq>TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|108767400|gb|CP000384.1|</Hit_id>
+  <Hit_def>Mycobacterium sp. MCS, complete genome</Hit_def>
+  <Hit_accession>CP000384</Hit_accession>
+  <Hit_len>5705448</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.2994</Hsp_bit-score>
+      <Hsp_score>51</Hsp_score>
+      <Hsp_evalue>8.08612e-16</Hsp_evalue>
+      <Hsp_query-from>36356</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>3888428</Hsp_hit-from>
+      <Hsp_hit-to>3888378</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>51</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>51</Hsp_align-len>
+      <Hsp_qseq>TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|565683224|gb|CP006936.1|</Hit_id>
+  <Hit_def>Mycobacterium neoaurum VKM Ac-1815D, complete genome</Hit_def>
+  <Hit_accession>CP006936</Hit_accession>
+  <Hit_len>5438192</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.4528</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>2.90829e-15</Hsp_evalue>
+      <Hsp_query-from>36357</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>4158829</Hsp_hit-from>
+      <Hsp_hit-to>4158780</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|508732639|dbj|AP012555.1|</Hit_id>
+  <Hit_def>Mycobacterium avium subsp. hominissuis TH135 chromosomal DNA, complete genome</Hit_def>
+  <Hit_accession>AP012555</Hit_accession>
+  <Hit_len>4951217</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.4528</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>2.90829e-15</Hsp_evalue>
+      <Hsp_query-from>36357</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1512741</Hsp_hit-from>
+      <Hsp_hit-to>1512790</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|494536091|gb|CP005928.1|</Hit_id>
+  <Hit_def>Mycobacterium avium subsp. paratuberculosis MAP4, complete genome</Hit_def>
+  <Hit_accession>CP005928</Hit_accession>
+  <Hit_len>4829424</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.4528</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>2.90829e-15</Hsp_evalue>
+      <Hsp_query-from>36357</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1600752</Hsp_hit-from>
+      <Hsp_hit-to>1600801</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|390613681|gb|CP003053.1|</Hit_id>
+  <Hit_def>Mycobacterium chubuense NBB4, complete genome</Hit_def>
+  <Hit_accession>CP003053</Hit_accession>
+  <Hit_len>5583723</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.4528</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>2.90829e-15</Hsp_evalue>
+      <Hsp_query-from>36357</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>3741748</Hsp_hit-from>
+      <Hsp_hit-to>3741699</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|359817839|gb|CP003169.1|</Hit_id>
+  <Hit_def>Mycobacterium rhodesiae NBB3, complete genome</Hit_def>
+  <Hit_accession>CP003169</Hit_accession>
+  <Hit_len>6415739</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.4528</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>2.90829e-15</Hsp_evalue>
+      <Hsp_query-from>36357</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>4069604</Hsp_hit-from>
+      <Hsp_hit-to>4069653</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|118163506|gb|CP000479.1|</Hit_id>
+  <Hit_def>Mycobacterium avium 104, complete genome</Hit_def>
+  <Hit_accession>CP000479</Hit_accession>
+  <Hit_len>5475491</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.4528</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>2.90829e-15</Hsp_evalue>
+      <Hsp_query-from>36357</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1627429</Hsp_hit-from>
+      <Hsp_hit-to>1627478</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|41400296|gb|AE016958.1|</Hit_id>
+  <Hit_def>Mycobacterium avium subsp. paratuberculosis str. k10, complete genome</Hit_def>
+  <Hit_accession>AE016958</Hit_accession>
+  <Hit_len>4829781</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.4528</Hsp_bit-score>
+      <Hsp_score>50</Hsp_score>
+      <Hsp_evalue>2.90829e-15</Hsp_evalue>
+      <Hsp_query-from>36357</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2609804</Hsp_hit-from>
+      <Hsp_hit-to>2609755</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|399228992|gb|CP001663.1|</Hit_id>
+  <Hit_def>Mycobacterium smegmatis str. MC2 155, complete genome</Hit_def>
+  <Hit_accession>CP001663</Hit_accession>
+  <Hit_len>6988208</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.6061</Hsp_bit-score>
+      <Hsp_score>49</Hsp_score>
+      <Hsp_evalue>1.04601e-14</Hsp_evalue>
+      <Hsp_query-from>36358</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>4849596</Hsp_hit-from>
+      <Hsp_hit-to>4849548</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|315259999|gb|CP002385.1|</Hit_id>
+  <Hit_def>Mycobacterium gilvum Spyr1, complete genome</Hit_def>
+  <Hit_accession>CP002385</Hit_accession>
+  <Hit_len>5547747</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.6061</Hsp_bit-score>
+      <Hsp_score>49</Hsp_score>
+      <Hsp_evalue>1.04601e-14</Hsp_evalue>
+      <Hsp_query-from>36355</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2011134</Hsp_hit-from>
+      <Hsp_hit-to>2011186</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>52</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>53</Hsp_align-len>
+      <Hsp_qseq>CTG-GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>CTGTGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|145213092|gb|CP000656.1|</Hit_id>
+  <Hit_def>Mycobacterium gilvum PYR-GCK, complete genome</Hit_def>
+  <Hit_accession>CP000656</Hit_accession>
+  <Hit_len>5619607</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.6061</Hsp_bit-score>
+      <Hsp_score>49</Hsp_score>
+      <Hsp_evalue>1.04601e-14</Hsp_evalue>
+      <Hsp_query-from>36355</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2652374</Hsp_hit-from>
+      <Hsp_hit-to>2652426</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>52</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>53</Hsp_align-len>
+      <Hsp_qseq>CTG-GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>CTGTGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|119953846|gb|CP000511.1|</Hit_id>
+  <Hit_def>Mycobacterium vanbaalenii PYR-1, complete genome</Hit_def>
+  <Hit_accession>CP000511</Hit_accession>
+  <Hit_len>6491865</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.6061</Hsp_bit-score>
+      <Hsp_score>49</Hsp_score>
+      <Hsp_evalue>1.04601e-14</Hsp_evalue>
+      <Hsp_query-from>36358</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>4395918</Hsp_hit-from>
+      <Hsp_hit-to>4395870</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|118168627|gb|CP000480.1|</Hit_id>
+  <Hit_def>Mycobacterium smegmatis str. MC2 155, complete genome</Hit_def>
+  <Hit_accession>CP000480</Hit_accession>
+  <Hit_len>6988209</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.6061</Hsp_bit-score>
+      <Hsp_score>49</Hsp_score>
+      <Hsp_evalue>1.04601e-14</Hsp_evalue>
+      <Hsp_query-from>36358</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>4847984</Hsp_hit-from>
+      <Hsp_hit-to>4847936</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|432164605|emb|FO203510.1|</Hit_id>
+  <Hit_def>Mycobacterium canettii CIPT 140070017 complete genome</Hit_def>
+  <Hit_accession>FO203510</Hit_accession>
+  <Hit_len>4524466</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.7595</Hsp_bit-score>
+      <Hsp_score>48</Hsp_score>
+      <Hsp_evalue>3.76211e-14</Hsp_evalue>
+      <Hsp_query-from>36359</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2940538</Hsp_hit-from>
+      <Hsp_hit-to>2940491</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>48</Hsp_align-len>
+      <Hsp_qseq>TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|432160663|emb|FO203509.1|</Hit_id>
+  <Hit_def>Mycobacterium canettii CIPT 140070010 complete genome</Hit_def>
+  <Hit_accession>FO203509</Hit_accession>
+  <Hit_len>4525948</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.7595</Hsp_bit-score>
+      <Hsp_score>48</Hsp_score>
+      <Hsp_evalue>3.76211e-14</Hsp_evalue>
+      <Hsp_query-from>36359</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2958041</Hsp_hit-from>
+      <Hsp_hit-to>2957994</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>48</Hsp_align-len>
+      <Hsp_qseq>TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|432152694|emb|FO203507.1|</Hit_id>
+  <Hit_def>Mycobacterium canettii CIPT 140060008 complete genome</Hit_def>
+  <Hit_accession>FO203507</Hit_accession>
+  <Hit_len>4432426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.7595</Hsp_bit-score>
+      <Hsp_score>48</Hsp_score>
+      <Hsp_evalue>3.76211e-14</Hsp_evalue>
+      <Hsp_query-from>36359</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2875132</Hsp_hit-from>
+      <Hsp_hit-to>2875085</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>48</Hsp_align-len>
+      <Hsp_qseq>TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|405126727|gb|CP002275.1|</Hit_id>
+  <Hit_def>Mycobacterium indicus pranii MTCC 9506, complete genome</Hit_def>
+  <Hit_accession>CP002275</Hit_accession>
+  <Hit_len>5589007</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.7595</Hsp_bit-score>
+      <Hsp_score>48</Hsp_score>
+      <Hsp_evalue>3.76211e-14</Hsp_evalue>
+      <Hsp_query-from>36359</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1716334</Hsp_hit-from>
+      <Hsp_hit-to>1716381</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>48</Hsp_align-len>
+      <Hsp_qseq>TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1756802</Hsp_hit-from>
+      <Hsp_hit-to>1756847</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|378807379|gb|CP003324.1|</Hit_id>
+  <Hit_def>Mycobacterium intracellulare MOTT-64, complete genome</Hit_def>
+  <Hit_accession>CP003324</Hit_accession>
+  <Hit_len>5501090</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.7595</Hsp_bit-score>
+      <Hsp_score>48</Hsp_score>
+      <Hsp_evalue>3.76211e-14</Hsp_evalue>
+      <Hsp_query-from>36359</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1543825</Hsp_hit-from>
+      <Hsp_hit-to>1543872</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>48</Hsp_align-len>
+      <Hsp_qseq>TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|340003223|emb|HE572590.1|</Hit_id>
+  <Hit_def>Mycobacterium canettii CIPT 140010059 complete genome</Hit_def>
+  <Hit_accession>HE572590</Hit_accession>
+  <Hit_len>4482059</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.7595</Hsp_bit-score>
+      <Hsp_score>48</Hsp_score>
+      <Hsp_evalue>3.76211e-14</Hsp_evalue>
+      <Hsp_query-from>36359</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2906469</Hsp_hit-from>
+      <Hsp_hit-to>2906422</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>48</Hsp_align-len>
+      <Hsp_qseq>TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|556021639|gb|CP006835.1|</Hit_id>
+  <Hit_def>Mycobacterium kansasii ATCC 12478, complete genome</Hit_def>
+  <Hit_accession>CP006835</Hit_accession>
+  <Hit_len>6432277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>87.9128</Hsp_bit-score>
+      <Hsp_score>47</Hsp_score>
+      <Hsp_evalue>1.35309e-13</Hsp_evalue>
+      <Hsp_query-from>36360</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1284656</Hsp_hit-from>
+      <Hsp_hit-to>1284610</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>47</Hsp_align-len>
+      <Hsp_qseq>GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|219932450|emb|FM211192.1|</Hit_id>
+  <Hit_def>Mycobacterium leprae Br4923, complete genome sequence</Hit_def>
+  <Hit_accession>FM211192</Hit_accession>
+  <Hit_len>3268071</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>87.9128</Hsp_bit-score>
+      <Hsp_score>47</Hsp_score>
+      <Hsp_evalue>1.35309e-13</Hsp_evalue>
+      <Hsp_query-from>36360</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>524685</Hsp_hit-from>
+      <Hsp_hit-to>524731</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>47</Hsp_align-len>
+      <Hsp_qseq>GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|13092598|emb|AL583918.1|</Hit_id>
+  <Hit_def>Mycobacterium leprae strain TN complete genome; segment 2/10</Hit_def>
+  <Hit_accession>AL583918</Hit_accession>
+  <Hit_len>344050</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>87.9128</Hsp_bit-score>
+      <Hsp_score>47</Hsp_score>
+      <Hsp_evalue>1.35309e-13</Hsp_evalue>
+      <Hsp_query-from>36360</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>180676</Hsp_hit-from>
+      <Hsp_hit-to>180722</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>47</Hsp_align-len>
+      <Hsp_qseq>GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|2225939|emb|Z97179.1|</Hit_id>
+  <Hit_def>Mycobacterium leprae cosmid L383</Hit_def>
+  <Hit_accession>Z97179</Hit_accession>
+  <Hit_len>35335</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>87.9128</Hsp_bit-score>
+      <Hsp_score>47</Hsp_score>
+      <Hsp_evalue>1.35309e-13</Hsp_evalue>
+      <Hsp_query-from>36360</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>20771</Hsp_hit-from>
+      <Hsp_hit-to>20817</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>47</Hsp_align-len>
+      <Hsp_qseq>GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|594543418|gb|CP003494.1|</Hit_id>
+  <Hit_def>Mycobacterium bovis BCG str. ATCC 35743, complete genome</Hit_def>
+  <Hit_accession>CP003494</Hit_accession>
+  <Hit_len>4334064</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2510029</Hsp_hit-from>
+      <Hsp_hit-to>2509984</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|585539546|gb|CP002885.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis CCDC5180, complete genome</Hit_def>
+  <Hit_accession>CP002885</Hit_accession>
+  <Hit_len>4414346</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2828352</Hsp_hit-from>
+      <Hsp_hit-to>2828307</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|585528731|gb|CP002883.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis BT1, complete genome</Hit_def>
+  <Hit_accession>CP002883</Hit_accession>
+  <Hit_len>4399405</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2825172</Hsp_hit-from>
+      <Hsp_hit-to>2825127</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|585514057|gb|CP002882.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis BT2, complete genome</Hit_def>
+  <Hit_accession>CP002882</Hit_accession>
+  <Hit_len>4401899</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2817779</Hsp_hit-from>
+      <Hsp_hit-to>2817734</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|585499635|gb|CP002871.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis HKBS1, complete genome</Hit_def>
+  <Hit_accession>CP002871</Hit_accession>
+  <Hit_len>4407929</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2827541</Hsp_hit-from>
+      <Hsp_hit-to>2827496</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|559794742|gb|CP003248.2|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis H37Rv, complete genome</Hit_def>
+  <Hit_accession>CP003248</Hit_accession>
+  <Hit_len>4411709</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2835577</Hsp_hit-from>
+      <Hsp_hit-to>2835532</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|542043551|gb|CP001664.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis str. Haarlem, complete genome</Hit_def>
+  <Hit_accession>CP001664</Hit_accession>
+  <Hit_len>4408224</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2830173</Hsp_hit-from>
+      <Hsp_hit-to>2830128</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|523435879|gb|CP006578.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis EAI5, complete genome</Hit_def>
+  <Hit_accession>CP006578</Hit_accession>
+  <Hit_len>4391174</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2823354</Hsp_hit-from>
+      <Hsp_hit-to>2823309</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|521363701|gb|CP003347.1|</Hit_id>
+  <Hit_def>Mycobacterium sp. 05-1390, complete genome</Hit_def>
+  <Hit_accession>CP003347</Hit_accession>
+  <Hit_len>5521023</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1551477</Hsp_hit-from>
+      <Hsp_hit-to>1551522</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|505808486|gb|CP002884.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis CCDC5079, complete genome</Hit_def>
+  <Hit_accession>CP002884</Hit_accession>
+  <Hit_len>4414325</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2830104</Hsp_hit-from>
+      <Hsp_hit-to>2830059</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|492073345|gb|CP005387.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis EAI5/NITR206, complete genome</Hit_def>
+  <Hit_accession>CP005387</Hit_accession>
+  <Hit_len>4390306</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2822866</Hsp_hit-from>
+      <Hsp_hit-to>2822821</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|492065852|gb|CP005386.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis CAS/NITR204, complete genome</Hit_def>
+  <Hit_accession>CP005386</Hit_accession>
+  <Hit_len>4392876</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2826007</Hsp_hit-from>
+      <Hsp_hit-to>2825962</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|492059766|gb|CP004886.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis str. Haarlem/NITR202, complete genome</Hit_def>
+  <Hit_accession>CP004886</Hit_accession>
+  <Hit_len>4404786</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2832201</Hsp_hit-from>
+      <Hsp_hit-to>2832156</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|478739819|gb|CP005082.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis str. Beijing/NITR203, complete genome</Hit_def>
+  <Hit_accession>CP005082</Hit_accession>
+  <Hit_len>4411128</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2835314</Hsp_hit-from>
+      <Hsp_hit-to>2835269</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|459650308|gb|CP003900.2|</Hit_id>
+  <Hit_def>Mycobacterium bovis BCG str. Korea 1168P, complete genome</Hit_def>
+  <Hit_accession>CP003900</Hit_accession>
+  <Hit_len>4376711</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2769011</Hsp_hit-from>
+      <Hsp_hit-to>2768966</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|444893469|emb|AL123456.3|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis H37Rv complete genome</Hit_def>
+  <Hit_accession>AL123456</Hit_accession>
+  <Hit_len>4411532</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2835567</Hsp_hit-from>
+      <Hsp_hit-to>2835522</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|442581001|gb|CP003899.1|</Hit_id>
+  <Hit_def>Mycobacterium liflandii 128FXT, complete genome</Hit_def>
+  <Hit_accession>CP003899</Hit_accession>
+  <Hit_len>6208955</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>4493400</Hsp_hit-from>
+      <Hsp_hit-to>4493355</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|440579446|emb|HE663067.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis 7199-99 complete genome</Hit_def>
+  <Hit_accession>HE663067</Hit_accession>
+  <Hit_len>4421197</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2836181</Hsp_hit-from>
+      <Hsp_hit-to>2836136</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|433294648|gb|CP003078.1|</Hit_id>
+  <Hit_def>Mycobacterium smegmatis JS623, complete genome</Hit_def>
+  <Hit_accession>CP003078</Hit_accession>
+  <Hit_len>6464916</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>4356615</Hsp_hit-from>
+      <Hsp_hit-to>4356570</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|432156676|emb|FO203508.1|</Hit_id>
+  <Hit_def>Mycobacterium canettii CIPT 140070008 complete genome</Hit_def>
+  <Hit_accession>FO203508</Hit_accession>
+  <Hit_len>4420197</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2887917</Hsp_hit-from>
+      <Hsp_hit-to>2887872</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|392051818|gb|CP001976.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis KZN 605, complete genome</Hit_def>
+  <Hit_accession>CP001976</Hit_accession>
+  <Hit_len>4399120</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1578360</Hsp_hit-from>
+      <Hsp_hit-to>1578405</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|386786868|gb|CP003491.1|</Hit_id>
+  <Hit_def>Mycobacterium sp. MOTT36Y, complete genome</Hit_def>
+  <Hit_accession>CP003491</Hit_accession>
+  <Hit_len>5613626</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1528321</Hsp_hit-from>
+      <Hsp_hit-to>1528366</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|380723578|gb|CP003234.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis RGTB423, complete genome</Hit_def>
+  <Hit_accession>CP003234</Hit_accession>
+  <Hit_len>4406587</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2835466</Hsp_hit-from>
+      <Hsp_hit-to>2835421</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|380719886|gb|CP003233.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis RGTB327, complete genome</Hit_def>
+  <Hit_accession>CP003233</Hit_accession>
+  <Hit_len>4380119</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2829228</Hsp_hit-from>
+      <Hsp_hit-to>2829183</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|379026087|dbj|AP012340.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis str. Erdman = ATCC 35801 DNA, complete genome</Hit_def>
+  <Hit_accession>AP012340</Hit_accession>
+  <Hit_len>4392353</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2823154</Hsp_hit-from>
+      <Hsp_hit-to>2823109</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>51</Hit_num>
+  <Hit_id>gi|378802229|gb|CP003323.1|</Hit_id>
+  <Hit_def>Mycobacterium intracellulare MOTT-02, complete genome</Hit_def>
+  <Hit_accession>CP003323</Hit_accession>
+  <Hit_len>5409696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1754267</Hsp_hit-from>
+      <Hsp_hit-to>1754312</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>52</Hit_num>
+  <Hit_id>gi|378797084|gb|CP003322.1|</Hit_id>
+  <Hit_def>Mycobacterium intracellulare ATCC 13950, complete genome</Hit_def>
+  <Hit_accession>CP003322</Hit_accession>
+  <Hit_len>5402402</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1791517</Hsp_hit-from>
+      <Hsp_hit-to>1791562</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>53</Hit_num>
+  <Hit_id>gi|378543272|emb|HE608151.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis UT205 complete genome</Hit_def>
+  <Hit_accession>HE608151</Hit_accession>
+  <Hit_len>4418088</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2840298</Hsp_hit-from>
+      <Hsp_hit-to>2840253</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>54</Hit_num>
+  <Hit_id>gi|356592064|gb|CP002095.1|</Hit_id>
+  <Hit_def>Mycobacterium bovis BCG str. Mexico, complete genome</Hit_def>
+  <Hit_accession>CP002095</Hit_accession>
+  <Hit_len>4350386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2778728</Hsp_hit-from>
+      <Hsp_hit-to>2778683</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>55</Hit_num>
+  <Hit_id>gi|344217818|gb|CP002992.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis CTRI-2, complete genome</Hit_def>
+  <Hit_accession>CP002992</Hit_accession>
+  <Hit_len>4398525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2830471</Hsp_hit-from>
+      <Hsp_hit-to>2830426</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>56</Hit_num>
+  <Hit_id>gi|341599927|emb|AM412059.2|</Hit_id>
+  <Hit_def>Mycobacterium bovis BCG str. Moreau RDJ complete genome</Hit_def>
+  <Hit_accession>AM412059</Hit_accession>
+  <Hit_len>4340116</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2791860</Hsp_hit-from>
+      <Hsp_hit-to>2791815</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>57</Hit_num>
+  <Hit_id>gi|339329439|emb|FR878060.1|</Hit_id>
+  <Hit_def>Mycobacterium africanum GM041182 complete genome</Hit_def>
+  <Hit_accession>FR878060</Hit_accession>
+  <Hit_len>4389314</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2822355</Hsp_hit-from>
+      <Hsp_hit-to>2822310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>58</Hit_num>
+  <Hit_id>gi|339296727|gb|CP001642.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis CCDC5180, complete genome</Hit_def>
+  <Hit_accession>CP001642</Hit_accession>
+  <Hit_len>4405981</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2823774</Hsp_hit-from>
+      <Hsp_hit-to>2823729</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>59</Hit_num>
+  <Hit_id>gi|339293079|gb|CP001641.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis CCDC5079, complete genome</Hit_def>
+  <Hit_accession>CP001641</Hit_accession>
+  <Hit_len>4398812</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2817367</Hsp_hit-from>
+      <Hsp_hit-to>2817322</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>60</Hit_num>
+  <Hit_id>gi|333484608|gb|CP002329.1|</Hit_id>
+  <Hit_def>Mycobacterium sp. JDM601, complete genome</Hit_def>
+  <Hit_accession>CP002329</Hit_accession>
+  <Hit_len>4643668</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1492521</Hsp_hit-from>
+      <Hsp_hit-to>1492566</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>61</Hit_num>
+  <Hit_id>gi|328456706|gb|CP001662.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis KZN 4207, complete genome</Hit_def>
+  <Hit_accession>CP001662</Hit_accession>
+  <Hit_len>4394985</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1578191</Hsp_hit-from>
+      <Hsp_hit-to>1578236</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>62</Hit_num>
+  <Hit_id>gi|253318418|gb|CP001658.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis KZN 1435, complete genome</Hit_def>
+  <Hit_accession>CP001658</Hit_accession>
+  <Hit_len>4398250</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1578247</Hsp_hit-from>
+      <Hsp_hit-to>1578292</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>63</Hit_num>
+  <Hit_id>gi|224771496|dbj|AP010918.1|</Hit_id>
+  <Hit_def>Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome</Hit_def>
+  <Hit_accession>AP010918</Hit_accession>
+  <Hit_len>4371711</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2792136</Hsp_hit-from>
+      <Hsp_hit-to>2792091</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>64</Hit_num>
+  <Hit_id>gi|183173361|gb|CP000854.1|</Hit_id>
+  <Hit_def>Mycobacterium marinum M, complete genome</Hit_def>
+  <Hit_accession>CP000854</Hit_accession>
+  <Hit_len>6636827</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>4812333</Hsp_hit-from>
+      <Hsp_hit-to>4812288</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>82.3729</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>6.29533e-12</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36404</Hsp_query-to>
+      <Hsp_hit-from>4869669</Hsp_hit-from>
+      <Hsp_hit-to>4869626</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGT</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>65</Hit_num>
+  <Hit_id>gi|148719718|gb|CP000717.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis F11, complete genome</Hit_def>
+  <Hit_accession>CP000717</Hit_accession>
+  <Hit_len>4424435</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2848885</Hsp_hit-from>
+      <Hsp_hit-to>2848840</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>66</Hit_num>
+  <Hit_id>gi|148503909|gb|CP000611.1|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis H37Ra, complete genome</Hit_def>
+  <Hit_accession>CP000611</Hit_accession>
+  <Hit_len>4419977</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2847535</Hsp_hit-from>
+      <Hsp_hit-to>2847490</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>67</Hit_num>
+  <Hit_id>gi|121491530|emb|AM408590.1|</Hit_id>
+  <Hit_def>Mycobacterium bovis BCG Pasteur 1173P2, complete genome</Hit_def>
+  <Hit_accession>AM408590</Hit_accession>
+  <Hit_len>4374522</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2799363</Hsp_hit-from>
+      <Hsp_hit-to>2799318</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>68</Hit_num>
+  <Hit_id>gi|118568029|gb|CP000325.1|</Hit_id>
+  <Hit_def>Mycobacterium ulcerans Agy99, complete genome</Hit_def>
+  <Hit_accession>CP000325</Hit_accession>
+  <Hit_len>5631606</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>4246301</Hsp_hit-from>
+      <Hsp_hit-to>4246256</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>69</Hit_num>
+  <Hit_id>gi|50952454|gb|AE000516.2|</Hit_id>
+  <Hit_def>Mycobacterium tuberculosis CDC1551, complete genome</Hit_def>
+  <Hit_accession>AE000516</Hit_accession>
+  <Hit_len>4403837</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>2831055</Hsp_hit-from>
+      <Hsp_hit-to>2831010</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>70</Hit_num>
+  <Hit_id>gi|31619031|emb|BX248342.1|</Hit_id>
+  <Hit_def>Mycobacterium bovis subsp. bovis AF2122/97 complete genome; segment 9/14</Hit_def>
+  <Hit_accession>BX248342</Hit_accession>
+  <Hit_len>306550</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.0662</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>4.86659e-13</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>291364</Hsp_hit-from>
+      <Hsp_hit-to>291319</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>71</Hit_num>
+  <Hit_id>gi|506960221|gb|CP004374.1|</Hit_id>
+  <Hit_def>Mycobacterium abscessus subsp. bolletii 50594, complete genome</Hit_def>
+  <Hit_accession>CP004374</Hit_accession>
+  <Hit_len>5000473</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>78.6796</Hsp_bit-score>
+      <Hsp_score>42</Hsp_score>
+      <Hsp_evalue>8.14353e-11</Hsp_evalue>
+      <Hsp_query-from>36359</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1644761</Hsp_hit-from>
+      <Hsp_hit-to>1644808</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>48</Hsp_align-len>
+      <Hsp_qseq>TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>TGGTGCGCCGTCAGGGGCTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||  ||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>73.1396</Hsp_bit-score>
+      <Hsp_score>39</Hsp_score>
+      <Hsp_evalue>3.78882e-09</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36405</Hsp_query-to>
+      <Hsp_hit-from>1573263</Hsp_hit-from>
+      <Hsp_hit-to>1573307</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>43</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTC</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGGCTCGAACCCCGGACCCGCTGATTAAGAGTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||  |||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>72</Hit_num>
+  <Hit_id>gi|169239075|emb|CU458896.1|</Hit_id>
+  <Hit_def>Mycobacterium abscessus chromosome, complete sequence</Hit_def>
+  <Hit_accession>CU458896</Hit_accession>
+  <Hit_len>5067172</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>78.6796</Hsp_bit-score>
+      <Hsp_score>42</Hsp_score>
+      <Hsp_evalue>8.14353e-11</Hsp_evalue>
+      <Hsp_query-from>36359</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1550158</Hsp_hit-from>
+      <Hsp_hit-to>1550205</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>48</Hsp_align-len>
+      <Hsp_qseq>TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>TGGTGCGCCGTCAGGGGCTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||  ||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>73</Hit_num>
+  <Hit_id>gi|395456521|gb|CP003699.1|</Hit_id>
+  <Hit_def>Mycobacterium massiliense str. GO 06, complete genome</Hit_def>
+  <Hit_accession>CP003699</Hit_accession>
+  <Hit_len>5068807</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>74.9863</Hsp_bit-score>
+      <Hsp_score>40</Hsp_score>
+      <Hsp_evalue>1.05343e-09</Hsp_evalue>
+      <Hsp_query-from>36361</Hsp_query-from>
+      <Hsp_query-to>36406</Hsp_query-to>
+      <Hsp_hit-from>1550825</Hsp_hit-from>
+      <Hsp_hit-to>1550870</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_qseq>
+      <Hsp_hseq>GTGCGCCGTCAGGGGCTCGAACCCCGGACCCGCTGATTAAGAGTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||  ||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>74</Hit_num>
+  <Hit_id>gi|576082433|gb|CP006850.1|</Hit_id>
+  <Hit_def>Nocardia nova SH22a, complete genome</Hit_def>
+  <Hit_accession>CP006850</Hit_accession>
+  <Hit_len>8348532</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>52.8265</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>0.00493594</Hsp_evalue>
+      <Hsp_query-from>27236</Hsp_query-from>
+      <Hsp_query-to>27263</Hsp_query-to>
+      <Hsp_hit-from>166184</Hsp_hit-from>
+      <Hsp_hit-to>166211</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>28</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>28</Hsp_align-len>
+      <Hsp_qseq>GCCGGGTTCTCGCAGGGCGCGGTCGTGG</Hsp_qseq>
+      <Hsp_hseq>GCCGGGTTCTCGCAGGGCGCGGTCGTGG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>33996</Statistics_db-num>
+      <Statistics_db-len>652114680</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.46</Statistics_kappa>
+      <Statistics_lambda>1.28</Statistics_lambda>
+      <Statistics_entropy>0.85</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

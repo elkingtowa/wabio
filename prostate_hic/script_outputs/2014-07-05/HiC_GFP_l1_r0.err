@@ -1,0 +1,15 @@
+module: loading 'hiclib/2014-03-11'
+module: loading 'bowtie2/2.0.6'
+module: loading 'samtools/0.1.19'
+Traceback (most recent call last):
+  File "hic_pipeline_complete.py", line 269, in <module>
+    main()
+  File "hic_pipeline_complete.py", line 169, in main
+    iterative_mapping(replicate[0], replicate[1], mappedReadDir, annotation)
+  File "/users/bsiranos/projects/senescence_HiC/src/HiC_analysis_pipeline/data_utils.py", line 58, in iterative_mapping
+    bowtie_flags='--very-sensitive')
+  File "/gpfs/runtime/opt/hiclib/2014-03-11/src/hiclib/mapping.py", line 328, in iterative_mapping
+    **kwargs)
+  File "/gpfs/runtime/opt/hiclib/2014-03-11/src/hiclib/mapping.py", line 365, in iterative_mapping
+    seq_start, seq_end, raw_seq_len))
+Exception: An incorrect trimming region is supplied: [0, 100), the raw sequence length is 54

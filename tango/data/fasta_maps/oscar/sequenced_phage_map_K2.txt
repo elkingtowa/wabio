@@ -1,0 +1,4 @@
+Milly(K2)	/users/bsiranos/projects/phage_fasta/Milly.fasta
+Mufasa(K2)	/users/bsiranos/projects/phage_fasta/Mufasa.fasta
+TM4(K2)	/users/bsiranos/projects/phage_fasta/TM4.fasta
+ZoeJ(K2)	/users/bsiranos/projects/phage_fasta/ZoeJ.fasta

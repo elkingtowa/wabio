@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.2.29+</BlastOutput_version>
+  <BlastOutput_reference>Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb Miller (2000), &quot;A greedy algorithm for aligning DNA sequences&quot;, J Comput Biol 2000; 7(1-2):203-14.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>54655</BlastOutput_query-ID>
+  <BlastOutput_query-def>Gaia complete sequence, 90460 bp including 10 bp 3&apos; overhang (CGGCCAGCTG)</BlastOutput_query-def>
+  <BlastOutput_query-len>90460</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>1</Parameters_sc-match>
+      <Parameters_sc-mismatch>-2</Parameters_sc-mismatch>
+      <Parameters_gap-open>0</Parameters_gap-open>
+      <Parameters_gap-extend>0</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>54655</Iteration_query-ID>
+  <Iteration_query-def>Gaia complete sequence, 90460 bp including 10 bp 3&apos; overhang (CGGCCAGCTG)</Iteration_query-def>
+  <Iteration_query-len>90460</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|508732639|dbj|AP012555.1|</Hit_id>
+  <Hit_def>Mycobacterium avium subsp. hominissuis TH135 chromosomal DNA, complete genome</Hit_def>
+  <Hit_accession>AP012555</Hit_accession>
+  <Hit_len>4951217</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>935.525</Hsp_bit-score>
+      <Hsp_score>506</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>72598</Hsp_query-from>
+      <Hsp_query-to>73672</Hsp_query-to>
+      <Hsp_hit-from>32275</Hsp_hit-from>
+      <Hsp_hit-to>31156</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>927</Hsp_identity>
+      <Hsp_positive>927</Hsp_positive>
+      <Hsp_gaps>53</Hsp_gaps>
+      <Hsp_align-len>1124</Hsp_align-len>
+      <Hsp_qseq>GTCCGGGAGCAGGCGCAGCAGAAGCGCGACCTGATCTGGGAGAGTGCGACCGCCGCGGCGACAGCATTGGATCGGGCG-----GCA-C---CGACACCTGGCCCCGAGCCGGTGCTGGGTGGCTGGTTGCTGGCCGCCGA--GCACCGCGTCCGGCAATGGCGCGATA-AGACTGCTGCCGAGGCTCATTTGGCGGAGCTGGCTGATCCGGCCTACCGGGAAAAGCTGGAGCGGATACCGGAGTACTGGAGTTGAACACACCGAGGCGCCCGCCCACCCACGACGAGGCCGTGACCATCGCCGTGGCGGCGAGCGGCCTGGCCGGCCATGATGTCTCGCCCGGCGCGATGGATCTCCTCGACCGGATCGGCCGCGGCGAACTGAGCTACGACCAGGCCGTCGCCGAGGTTATCGCGGAGTTCGGGCAACCTGCCGAGTGACTCC--CT---TCTG---A-CTG--CTAC-CA-TG------------GGTGGTGCCTGTTGCGTTGAGCTTCAGGAAGTGAGCCCGAGACCCGGCCGGACGACCGTGGCGCTCGGGCTTCGCGATTTTTAGA-C--G-TC-----T--CGGGTGACCGTGACGGCGGGGTTGATGAGCTTGCGCCAGTCGCCC-CCTTTGGCCCAGCACCAGGCGATCGCATCGGGGATGGCCAGCAGCGCGTCGGTGTGTGGGCGTTTGTGCTCGTAGCGCAGGGTGTCACGGCAACCGGTAGCTCGGGTGTACTCGATGAGTTTCTGGTTGTCGAAGTTGACCATGGTCTCGTCCTCGTCGAGAACGATGTGTGCGTTGAGCGTGGTGGCATGGTCTTCGATGAGAGCGCGTAGACAAGCTGAGCGGCGCTGGCGCTCGTTGCGATGCTGGGCTCCGGCGCGGTACACGGTGGCTTGTACGCCGGCGTCGACGAAGGCTTGAGCGATCGTGCGTTTGCGGCCGTCTTTCTCGTCCTTCATATGCAGGTAGCGCTGTCCGGGCAGGAGCAGACCGCGGACCACCTGGCGCAGGGCGGTGAGGTCCGTCGTGATGTGGACGCTGGCCACGAGCAAATAGTCGCGCTGTTTGGTCTCGTCGACGTAGATGTGGCGCGCGCTCACGGCAGGCTCCG</Hsp_qseq>
+      <Hsp_hseq>GTCCGCGAGTTGGCGCAGCAGCGCCGCGACCTGATCACCGAAAGCGCCACCGCGGCGGCCACAACATTGCACCGGGCGACATTGCAGCGGGCGACACCTGGGGTCGGGCCGGTGCTCAGCGATTGGGTGGCGG-AGGCGACCGC-CCGCGCCCGCCAATGGCGAGACAGAGAC-GCGGCGGATGTGCATCTGGCGGAGCTGACTGACCCGGCCTACCGCGAAAGGCTGGAGCGGATACCGGAGTACTGGAGTTGAACACGCCCAGGCGTTCGCCCACCCAGGGCGAGGCGGTGTCCGTCGCTGTGGCGGCGAGCGGGCTGGCCGGCCACGAGGTTTCGCCGGGCGCGCGTGATCTCCTCGATCGAATCGAGCGCGGCGTGCTGACCTACGACGAGGCCGTTGCCGAGGTCATCGCGGAGTTCGGGCAACCCGCCCGGTGACCCCGGCGCAGTGTGGGTATCAGGGCAGCGCAGTGTGGGCTATCATAGGTGGTGCCTGTTGCGTTGAGCTTCAGGAAGTGAGCCCGAGACCCGGCCGGACGACCGTGGCGCTCGGGCTTCGCGATTTTTGGGGCCTGGTCACACGTCGCGGGTGACCGTGACGGCGGGGTTGATGAGCTTGCGCCAGT-GCCCGCCTTTGGCCCAGCACCAGGCGATGGCGTCGGGGATGGCCAGCAGCGCGTCAGCGTGGGGGCGTTTGTGCTCGTAGTGCAGGGTGTCGCGGCAGCCGGCGGCTCGGGTGTATTCGATGAGTTTCTGGTTGTCGAACTTCACCATGGTTTCGTCCTCGTCGAGCACGATGTGTGCGTCGCGGGCGTTGGCGTGGTCTTCGATGAGGGCGCGTAGGCACGCTGAGCGGCGTTGGCGTTCGTTGCGGTGGTGGGCGCCAGCGCGGTAGATGGTGGCTTGTACGCCGGCGTCGACAAGGGCCTGGGCGATGGTGCGTTTGCGGCCGTCTTTTTCGTCCTTCATGTGCAGGTAGCGTTGTCCGGGAAGGAGCAGGCCTCGTATCAGCTGACGCAGTGCGGCCAGCTCCGTCGTGACGTGGACGCTGGCCACGAGCAGATAGTCGCGTTGCTTGGTTTCGTCGACGTAGATGTGGCGAGCGGTCACGACATGCTCCG</Hsp_hseq>
+      <Hsp_midline>||||| |||  ||||||||||   ||||||||||||   || || || ||||| ||||| ||| ||||| | ||||||     ||| |   ||||||||||   || |||||||||  | |  ||| ||  ||  | |||  || ||||| ||| |||||||| || | |||| || || || |  ||| ||||||||||| |||| ||||||||||| |||| ||||||||||||||||||||||||||||||||||| || |||||  |||||||||| | |||||| ||| || |||| |||||||||||||| ||||||||||| || || ||||| ||||||   ||||||||||| || ||||  |||||||  |||| ||||||| ||||||| |||||||| |||||||||||||||||||| |||  ||||| ||  |    | ||   | | |  |  | || ||            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |  |  | ||     |  |||||||||||||||||||||||||||||||||||||||| |||| ||||||||||||||||||||||| || ||||||||||||||||||||||| | ||| |||||||||||||||||| |||||||||| ||||| ||||  ||||||||||| ||||||||||||||||||||||| || |||||||| |||||||||||||| ||||||||||||| | | | | |||| |||||||||||||| |||||||| || ||||||||||| ||||| |||||||| || ||||| || |||||||| | |||||||||||||||||||||||| | ||| || ||||| |||||||||||||||||||| ||||||||||| ||||||||||| |||||||| |||||||| || || | || ||| ||||| ||||  || |||||||||| |||||||||||||||||||| ||||||||| || ||||| |||||||||||||||||||| ||| ||||| || ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|42476360|gb|AY266291.1|</Hit_id>
+  <Hit_def>Escherichia coli/Mycobacteria shuttle vector pGB9.2, complete sequence</Hit_def>
+  <Hit_accession>AY266291</Hit_accession>
+  <Hit_len>11441</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>337.211</Hsp_bit-score>
+      <Hsp_score>182</Hsp_score>
+      <Hsp_evalue>1.81703e-88</Hsp_evalue>
+      <Hsp_query-from>72598</Hsp_query-from>
+      <Hsp_query-to>73007</Hsp_query-to>
+      <Hsp_hit-from>4650</Hsp_hit-from>
+      <Hsp_hit-to>4247</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>335</Hsp_identity>
+      <Hsp_positive>335</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>410</Hsp_align-len>
+      <Hsp_qseq>GTCCGGGAGCAGGCGCAGCAGAAGCGCGACCTGATCTGGGAGAGTGCGACCGCCGCGGCGACAGCATTGGATCGGGCGGCACCGACACCTGGCCCCGAGCCGGTGCTGGGTGGCTGGTTGCTGGCCGCCGAGCACCGCGTCCGGCAATGGCGCGATAAGACTGCTGCCGAGGCTCATTTGGCGGAGCTGGCTGATCCGGCCTACCGGGAAAAGCTGGAGCGGATACCGGAGTACTGGAGTTGAACACACCGAGGCGCCCGCCCACCCACGACGAGGCCGTGACCATCGCCGTGGCGGCGAGCGGCCTGGCCGGCCATGATGTCTCGCCCGGCGCGATGGATCTCCTCGACCGGATCGGCCGCGGCGAACTGAGCTACGACCAGGCCGTCGCCGAGGTTATCGCGGAGTTC</Hsp_qseq>
+      <Hsp_hseq>GTCCGCGAGCTGGCGCAGCAGGACCGCGACCTGATCAACGAAAGCGCCAGCGCGGCGGCCACAACATTG---C-AGCGG--GCGACACCTGGGGTCGGGCCGGTGCTCAGCGACTGGGTGGCGGACGCCCGCCACCGCGTGCGCCGGTGGCCCGACAAGGATGCGGCCGAGGCGCATCTGTCCGAGCTGGCTGATCCGGCCTACCGGACACAGCGCGAGCGGATACCGGAGTACTGGAGTTGAACACACCGCGGCAGCCGATTTCTCACGACGAGGCCGTGTCCATCGCCGTGGCGGCGACCGGCCTGGCCGGCCATGACGTTTCGCTCGGCGCAATGGACCTCCTCGACCGAATCGGCCGCGGCGAACTGACCTACGACGAGGCCGCCGCCGAGGTCATCGCGGAGTTC</Hsp_hseq>
+      <Hsp_midline>||||| |||| |||||||||| | ||||||||||||   || || || | ||| ||||| ||| |||||   |  ||||   ||||||||||   || |||||||||  | | |||| ||  || ||||   |||||||| || |  |||| ||| |||  ||| |||||||| ||| || | ||||||||||||||||||||||||  | |||  ||||||||||||||||||||||||||||||||||| |||  |||    | ||||||||||||||| |||||||||||||||||| |||||||||||||||||| || |||| |||||| ||||| ||||||||||| ||||||||||||||||||| ||||||| |||||| ||||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|395456521|gb|CP003699.1|</Hit_id>
+  <Hit_def>Mycobacterium massiliense str. GO 06, complete genome</Hit_def>
+  <Hit_accession>CP003699</Hit_accession>
+  <Hit_len>5068807</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>226.412</Hsp_bit-score>
+      <Hsp_score>122</Hsp_score>
+      <Hsp_evalue>4.10373e-55</Hsp_evalue>
+      <Hsp_query-from>15344</Hsp_query-from>
+      <Hsp_query-to>15798</Hsp_query-to>
+      <Hsp_hit-from>1800319</Hsp_hit-from>
+      <Hsp_hit-to>1800773</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>349</Hsp_identity>
+      <Hsp_positive>349</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>460</Hsp_align-len>
+      <Hsp_qseq>AACTGGCTGTCAGATTTCATGCTGTACGACCGCCGCGCCGAAGAGGATCTGCATTTCACGCTCGATCCTATTCCCACTAACCGGTCGTGGCGTACACGGTGGGGCGGCAAGGTGACCG-G--CGTCAACGCGAAACGTGACGCGAACGGCCTGCACACGGTGGAAATGGAAATGATCCACAACCGTGAGCATGTGAAACACATTTTGGGCGGCGCTAACCCTATCTTCCCGCCTGAAATTCAGTTCCCGAAGATGTTCATCCTTCCGTGGAAC-TGCCGGACTGCTGTTTCCATGATGTTGTTCATCAACCTTGCGCGGCAGTTTTTCCCGCTCTTGTCGATTCCGACGAACATGTTCAACCCTGGCGCTTGGCTGGGTGTGGGGGATGTGATCGGTGGTTTCGATCCTCTC-GCATGGCCTATCCAGGTGCAGTTCCTCAACCCGTTGTTCGACCAGTC</Hsp_qseq>
+      <Hsp_hseq>AACTGGCTGTCAAAGTTCCTTCTCTATGACCGCCGCGCTGAAGAAGATATCCAGTTCACGCTAGATCCGAACCCTACTGATCGGTCTTGGAAAACCCGTTGGGGCGG-AA--AGATCGTGAACGTCAACGCAGTGCGCGACAAAGACGGGTTGCACACCGTTGAGCTCGAGATGATGCACAACCGGGAGCACGCCAAACACATCCTGGGTGGCGCGAATCCTCTGTTACCGCCTGAAATTCAGTTCCCGAAGATGTTCTTCCTTCCCTGGAACATG-CGCACTGCCGGTTCGATCATCATGTTCTTGAACCTGGCTCGCCAGTTCTTTCCGCTATTGAGTATCCCCACGAACATTTTCAACCCTGGCGCCTGGCTAGGGGTTCGGGACATCATCGGCGGCCT-GAACCCGTTGGCGTGGCCTATCCAGGTCCAATTCGTCAACCCACTGTTCGATCAGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||| | ||| | || || ||||||||||| ||||| ||| | || |||||||| ||||| |  || ||| | ||||| |||   || || |||||||| ||   || || |  |||||||||    || |||    ||||  ||||||| || ||  | || ||||| |||||||| ||||| |  ||||||||  |||| ||||| || ||| | || |||||||||||||||||||||||||||||| ||||||| |||||| || || ||||| | ||| || ||  ||||| | ||||| || || ||||| || ||||| |||   || || |||||||| |||||||||||||| ||||| || ||  ||||  | ||||| ||  | || ||  |  || |||||||||||||| || ||| |||||||  ||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|169239075|emb|CU458896.1|</Hit_id>
+  <Hit_def>Mycobacterium abscessus chromosome, complete sequence</Hit_def>
+  <Hit_accession>CU458896</Hit_accession>
+  <Hit_len>5067172</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>226.412</Hsp_bit-score>
+      <Hsp_score>122</Hsp_score>
+      <Hsp_evalue>4.10373e-55</Hsp_evalue>
+      <Hsp_query-from>15344</Hsp_query-from>
+      <Hsp_query-to>15798</Hsp_query-to>
+      <Hsp_hit-from>1799608</Hsp_hit-from>
+      <Hsp_hit-to>1800062</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>349</Hsp_identity>
+      <Hsp_positive>349</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>460</Hsp_align-len>
+      <Hsp_qseq>AACTGGCTGTCAGATTTCATGCTGTACGACCGCCGCGCCGAAGAGGATCTGCATTTCACGCTCGATCCTATTCCCACTAACCGGTCGTGGCGTACACGGTGGGGCGGCAAGGTGACCG-G--CGTCAACGCGAAACGTGACGCGAACGGCCTGCACACGGTGGAAATGGAAATGATCCACAACCGTGAGCATGTGAAACACATTTTGGGCGGCGCTAACCCTATCTTCCCGCCTGAAATTCAGTTCCCGAAGATGTTCATCCTTCCGTGGAAC-TGCCGGACTGCTGTTTCCATGATGTTGTTCATCAACCTTGCGCGGCAGTTTTTCCCGCTCTTGTCGATTCCGACGAACATGTTCAACCCTGGCGCTTGGCTGGGTGTGGGGGATGTGATCGGTGGTTTCGATCCTCTC-GCATGGCCTATCCAGGTGCAGTTCCTCAACCCGTTGTTCGACCAGTC</Hsp_qseq>
+      <Hsp_hseq>AACTGGCTGTCAAAGTTCCTTCTCTATGACCGCCGCGCTGAAGAAGATATCCAGTTCACGCTAGATCCGAACCCTACTGATCGGTCTTGGAAAACCCGTTGGGGCGG-AA--AGATCGTGAACGTCAACGCAGTGCGCGACAAAGACGGGTTGCACACCGTTGAGCTCGAGATGATGCACAACCGGGAGCACGCCAAACACATCCTGGGTGGCGCGAATCCTCTGTTACCGCCTGAAATTCAGTTCCCGAAGATGTTCTTCCTTCCCTGGAACATG-CGCACTGCCGGTTCGATCATCATGTTCTTGAACCTGGCTCGCCAGTTCTTTCCGCTATTGAGTATCCCCACGAACATTTTCAACCCTGGCGCCTGGCTAGGGGTTCGGGACATCATCGGCGGCCT-GAACCCGTTGGCGTGGCCTATCCAGGTCCAATTCGTCAACCCACTGTTCGATCAGTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||| | ||| | || || ||||||||||| ||||| ||| | || |||||||| ||||| |  || ||| | ||||| |||   || || |||||||| ||   || || |  |||||||||    || |||    ||||  ||||||| || ||  | || ||||| |||||||| ||||| |  ||||||||  |||| ||||| || ||| | || |||||||||||||||||||||||||||||| ||||||| |||||| || || ||||| | ||| || ||  ||||| | ||||| || || ||||| || ||||| |||   || || |||||||| |||||||||||||| ||||| || ||  ||||  | ||||| ||  | || ||  |  || |||||||||||||| || ||| |||||||  ||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|433294648|gb|CP003078.1|</Hit_id>
+  <Hit_def>Mycobacterium smegmatis JS623, complete genome</Hit_def>
+  <Hit_accession>CP003078</Hit_accession>
+  <Hit_len>6464916</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>176.552</Hsp_bit-score>
+      <Hsp_score>95</Hsp_score>
+      <Hsp_evalue>4.19175e-40</Hsp_evalue>
+      <Hsp_query-from>44315</Hsp_query-from>
+      <Hsp_query-to>44703</Hsp_query-to>
+      <Hsp_hit-from>2861171</Hsp_hit-from>
+      <Hsp_hit-to>2861559</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>297</Hsp_identity>
+      <Hsp_positive>297</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>395</Hsp_align-len>
+      <Hsp_qseq>AGCAGGTAGGTGAGGATTCCGCACAGCAGCAGCCAGTACATGTTGAGCCAGAGGTCAGTGGGCACGTCGAAGAAGTCGGGCATGTAGAT-TTTGACGCCGTTGCCGATTGAGAACAGTG-CCAGCAATAGTGGGATGCAGATGGTGGCTGGCCGTTCCACATACTGTTTGAAG-T--TTTGTTGCAAGCGTTCTTCTGGGTCGAGTCTACCGAGGGCGTTGTATACGACTGCCGAGGCGGCGACGATGTAGAGGTCGTGGCCGATGTAGTCCTCTAGGTTCCATTCACCGGTGCA-TCGGTGTAGCCAGTGCCCGATGGTTTGCGATGCGGCGGGGGACATGAGGATGACTGCCCCGCCTTGTAGTGCGATGTTGAGTGTGGCTGCTACCTCCCA</Hsp_qseq>
+      <Hsp_hseq>AGCAGGTAGATCAGCATGCCGCAGAGCAGCAGCCAGTAGATATTCAGCCAGAGGTCGGTGGGCACCTGGAAGAAGTCGGCCTTGTATATCTTTG-CGCCGTTGCCGAGTGTGAAC-GTGACCAACAGCAGCGGGATGCACAGCGTCGCAGGGTATTCGACGTACTGCTTGAAGGTCCTCTGCAGGGAGTGGTCGTCCT-G--AAGCCTGCCGAGAGCGTTGTACACCACGGCGGATGCGGCGACGATGTAGAGGTCGTGGCCGATGTAGTCCTCGAGATTCCACTTGCCGGT-CAGTGCGTGCAGCCAATGGCCGAGCGTCTCCGAAGCCCACGGAGACATCAACAGAACCGCGCCCCCCTGCAATGCGATGTTCAGGGTGGCGGCGAACTCCCA</Hsp_hseq>
+      <Hsp_midline>||||||||| | || || ||||| |||||||||||||| || || ||||||||||| |||||||| | ||||||||||| | |||| || |||| |||||||||||| || |||| ||| ||| ||  || |||||||| |  || || ||   ||| || ||||| |||||| |  | ||  |  || | || ||   |   || || ||||| |||||||| || || || || |||||||||||||||||||||||||||||||||||||| || ||||| |  ||||| || |  ||| ||||| || ||||  || | ||| ||    || ||||| |  |  || || || || || | ||||||||| || ||||| || | ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>33996</Statistics_db-num>
+      <Statistics_db-len>652114680</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.46</Statistics_kappa>
+      <Statistics_lambda>1.28</Statistics_lambda>
+      <Statistics_entropy>0.85</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

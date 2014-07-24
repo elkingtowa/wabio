@@ -1,0 +1,3 @@
+JoeDirt(L1),C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/JoeDirt.fasta
+Archie(L2),C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Archie.fasta
+Whirlwind(L3),C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Whirlwind.fasta

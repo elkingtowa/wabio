@@ -1,0 +1,5 @@
+http://phagesdb.org/media/fastas/Empty.fasta
+http://phagesdb.org/media/fastas/Gumbie.fasta
+http://phagesdb.org/media/fastas/Gyarad05.fasta
+http://phagesdb.org/media/fastas/NumberTen.fasta
+http://phagesdb.org/media/fastas/SeaBiscuit.fasta

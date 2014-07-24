@@ -1,0 +1,2 @@
+Bongo(M1)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Bongo.fasta
+PegLeg(M1)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/PegLeg.fasta

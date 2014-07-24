@@ -1,0 +1,5 @@
+Evanesce(Q)	/users/bsiranos/projects/phage_fasta/Evanesce.fasta
+Giles(Q)	/users/bsiranos/projects/phage_fasta/Giles.fasta
+HH92(Q)	/users/bsiranos/projects/phage_fasta/HH92.fasta
+Kinbote(Q)	/users/bsiranos/projects/phage_fasta/Kinbote.fasta
+OBUpride(Q)	/users/bsiranos/projects/phage_fasta/OBUpride.fasta

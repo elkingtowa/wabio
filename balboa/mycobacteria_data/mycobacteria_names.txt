@@ -1,0 +1,38 @@
+NC_015758	Mycobacterium africanum GM041182 ,chromosome circular
+NC_008595	Mycobacterium avium 104 ,chromosome circular
+NC_002945	Mycobacterium bovis AF2122/97 ,chromosome circular
+NC_020245	Mycobacterium bovis BCG str. Korea 1168P ,chromosome circular
+NC_016804	Mycobacterium bovis BCG str. Mexico ,chromosome circular
+NC_008769	Mycobacterium bovis BCG str. Pasteur 1173P2 ,chromosome circular
+NC_012207	Mycobacterium bovis BCG str. Tokyo 172 ,chromosome circular
+NC_015848	Mycobacterium canettii CIPT 140010059 ,chromosome circular
+NC_019950	Mycobacterium canettii CIPT 140060008 ,chromosome circular
+NC_019965	Mycobacterium canettii CIPT 140070008 ,chromosome circular
+NC_019951	Mycobacterium canettii CIPT 140070010 ,chromosome circular
+NC_019952	Mycobacterium canettii CIPT 140070017 ,chromosome circular
+NC_019966	Mycobacterium smegmatis JS623 ,chromosome circular
+NC_020089	Mycobacterium tuberculosis 7199-99 ,chromosome circular
+NC_021193	Mycobacterium tuberculosis CAS/NITR204 ,chromosome circular
+NC_017523	Mycobacterium tuberculosis CCDC5079 ,chromosome circular
+NC_021251	Mycobacterium tuberculosis CCDC5079 ,chromosome circular
+NC_017522	Mycobacterium tuberculosis CCDC5180 ,chromosome circular
+NC_002755	Mycobacterium tuberculosis CDC1551 ,chromosome circular
+NC_017524	Mycobacterium tuberculosis CTRI-2 ,chromosome circular
+NC_021740	Mycobacterium tuberculosis EAI5 ,chromosome circular
+NC_021194	Mycobacterium tuberculosis EAI5/NITR206 ,chromosome circular
+NC_009565	Mycobacterium tuberculosis F11 ,chromosome circular
+NC_009525	Mycobacterium tuberculosis H37Ra ,chromosome circular
+NC_000962	Mycobacterium tuberculosis H37Rv ,chromosome circular
+NC_018143	Mycobacterium tuberculosis H37Rv ,chromosome circular
+NC_012943	Mycobacterium tuberculosis KZN 1435 ,chromosome circular
+NC_016768	Mycobacterium tuberculosis KZN 4207 ,chromosome circular
+NC_018078	Mycobacterium tuberculosis KZN 605 ,chromosome circular
+NC_017026	Mycobacterium tuberculosis RGTB327 ,chromosome circular
+NC_017528	Mycobacterium tuberculosis RGTB423 ,chromosome circular
+NC_021054	Mycobacterium tuberculosis str. Beijing/NITR203 ,chromosome circular
+NC_020559	Mycobacterium tuberculosis str. Erdman = ATCC 35801 ,chromosome linear
+NC_022350	Mycobacterium tuberculosis str. Haarlem ,chromosome circular
+NC_021192	Mycobacterium tuberculosis str. Haarlem/NITR202 ,chromosome circular
+NC_016934	Mycobacterium tuberculosis UT205 ,chromosome circular
+NC_020276	Mycobacterium yongonense 05-1390 ,plasmid pMyong2 circ
+

@@ -1,0 +1,9 @@
+Dori(Singleton)	/users/bsiranos/projects/phage_fasta/Dori.fasta
+DS6A(Singleton)	/users/bsiranos/projects/phage_fasta/DS6A.fasta
+Gaia(Singleton)	/users/bsiranos/projects/phage_fasta/Gaia.fasta
+Jeon(Singleton)	/users/bsiranos/projects/phage_fasta/Jeon.fasta
+MooMoo(Singleton)	/users/bsiranos/projects/phage_fasta/MooMoo.fasta
+Muddy(Singleton)	/users/bsiranos/projects/phage_fasta/Muddy.fasta
+Patience(Singleton)	/users/bsiranos/projects/phage_fasta/Patience.fasta
+Sparky(Singleton)	/users/bsiranos/projects/phage_fasta/Sparky.fasta
+Wildcat(Singleton)	/users/bsiranos/projects/phage_fasta/Wildcat.fasta

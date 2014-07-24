@@ -1,0 +1,4 @@
+Alma(A9)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Alma.fasta
+Catalina(A9)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Catalina.fasta
+Myxus(A9)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Myxus.fasta
+PackMan(A9)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/PackMan.fasta

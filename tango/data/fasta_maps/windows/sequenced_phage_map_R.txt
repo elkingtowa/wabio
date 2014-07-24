@@ -1,0 +1,4 @@
+Nilo(R)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Nilo.fasta
+Papyrus(R)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Papyrus.fasta
+Send513(R)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Send513.fasta
+Weiss13(R)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Weiss13.fasta

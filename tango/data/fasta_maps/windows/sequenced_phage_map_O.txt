@@ -1,0 +1,5 @@
+Catdawg(O)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Catdawg.fasta
+Corndog(O)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Corndog.fasta
+Dylan(O)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Dylan.fasta
+Firecracker(O)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Firecracker.fasta
+YungJamal(O)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/YungJamal.fasta

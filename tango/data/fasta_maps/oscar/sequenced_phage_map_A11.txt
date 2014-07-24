@@ -1,0 +1,4 @@
+Bachome(A11)	/users/bsiranos/projects/phage_fasta/Bachome.fasta
+Et2Brutus(A11)	/users/bsiranos/projects/phage_fasta/Et2Brutus.fasta
+Fibonacci(A11)	/users/bsiranos/projects/phage_fasta/Fibonacci.fasta
+Mulciber(A11)	/users/bsiranos/projects/phage_fasta/Mulciber.fasta

@@ -1,0 +1,1 @@
+Squirty(F3)	/users/bsiranos/projects/phage_fasta/Squirty.fasta

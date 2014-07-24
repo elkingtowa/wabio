@@ -1,0 +1,1360 @@
+BLASTN 2.2.29+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and
+Webb Miller (2000), "A greedy algorithm for aligning DNA
+sequences", J Comput Biol 2000; 7(1-2):203-14.
+
+
+RID: NWWP8C74014
+
+
+Database: Nucleotide collection (nt)
+           22,335,882 sequences; 57,344,586,646 total letters
+Query= DS6A Final Sequence, 60588 bp including 12 bp 3' overhang
+(CGAGGCCGACAT), Singleton
+
+Length=60588
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+gb|CP000580.1|  Mycobacterium sp. JLS, complete genome             95.3    8e-16
+gb|CP000518.1|  Mycobacterium sp. KMS, complete genome             95.3    8e-16
+gb|CP000384.1|  Mycobacterium sp. MCS, complete genome             95.3    8e-16
+gb|CP006936.1|  Mycobacterium neoaurum VKM Ac-1815D, complete ...  93.5    3e-15
+dbj|AP012555.1|  Mycobacterium avium subsp. hominissuis TH135 ...  93.5    3e-15
+gb|CP005928.1|  Mycobacterium avium subsp. paratuberculosis MA...  93.5    3e-15
+gb|CP003053.1|  Mycobacterium chubuense NBB4, complete genome      93.5    3e-15
+gb|CP003169.1|  Mycobacterium rhodesiae NBB3, complete genome      93.5    3e-15
+gb|CP000479.1|  Mycobacterium avium 104, complete genome           93.5    3e-15
+gb|AE016958.1|  Mycobacterium avium subsp. paratuberculosis st...  93.5    3e-15
+gb|CP001663.1|  Mycobacterium smegmatis str. MC2 155, complete...  91.6    1e-14
+gb|CP002385.1|  Mycobacterium gilvum Spyr1, complete genome        91.6    1e-14
+gb|CP000656.1|  Mycobacterium gilvum PYR-GCK, complete genome      91.6    1e-14
+gb|CP000511.1|  Mycobacterium vanbaalenii PYR-1, complete genome   91.6    1e-14
+gb|CP000480.1|  Mycobacterium smegmatis str. MC2 155, complete...  91.6    1e-14
+emb|FO203510.1|  Mycobacterium canettii CIPT 140070017 complet...  89.8    4e-14
+emb|FO203509.1|  Mycobacterium canettii CIPT 140070010 complet...  89.8    4e-14
+emb|FO203507.1|  Mycobacterium canettii CIPT 140060008 complet...  89.8    4e-14
+gb|CP002275.1|  Mycobacterium indicus pranii MTCC 9506, comple...  89.8    4e-14
+gb|CP003324.1|  Mycobacterium intracellulare MOTT-64, complete...  89.8    4e-14
+emb|HE572590.1|  Mycobacterium canettii CIPT 140010059 complet...  89.8    4e-14
+gb|CP006835.1|  Mycobacterium kansasii ATCC 12478, complete ge...  87.9    1e-13
+emb|FM211192.1|  Mycobacterium leprae Br4923, complete genome ...  87.9    1e-13
+emb|AL583918.1|  Mycobacterium leprae strain TN complete genom...  87.9    1e-13
+emb|Z97179.1|  Mycobacterium leprae cosmid L383                    87.9    1e-13
+gb|CP003494.1|  Mycobacterium bovis BCG str. ATCC 35743, compl...  86.1    5e-13
+gb|CP002885.1|  Mycobacterium tuberculosis CCDC5180, complete ...  86.1    5e-13
+gb|CP002883.1|  Mycobacterium tuberculosis BT1, complete genome    86.1    5e-13
+gb|CP002882.1|  Mycobacterium tuberculosis BT2, complete genome    86.1    5e-13
+gb|CP002871.1|  Mycobacterium tuberculosis HKBS1, complete genome  86.1    5e-13
+gb|CP003248.2|  Mycobacterium tuberculosis H37Rv, complete genome  86.1    5e-13
+gb|CP001664.1|  Mycobacterium tuberculosis str. Haarlem, compl...  86.1    5e-13
+gb|CP006578.1|  Mycobacterium tuberculosis EAI5, complete genome   86.1    5e-13
+gb|CP003347.1|  Mycobacterium sp. 05-1390, complete genome         86.1    5e-13
+gb|CP002884.1|  Mycobacterium tuberculosis CCDC5079, complete ...  86.1    5e-13
+gb|CP005387.1|  Mycobacterium tuberculosis EAI5/NITR206, compl...  86.1    5e-13
+gb|CP005386.1|  Mycobacterium tuberculosis CAS/NITR204, comple...  86.1    5e-13
+gb|CP004886.1|  Mycobacterium tuberculosis str. Haarlem/NITR20...  86.1    5e-13
+gb|CP005082.1|  Mycobacterium tuberculosis str. Beijing/NITR20...  86.1    5e-13
+gb|CP003900.2|  Mycobacterium bovis BCG str. Korea 1168P, comp...  86.1    5e-13
+emb|AL123456.3|  Mycobacterium tuberculosis H37Rv complete genome  86.1    5e-13
+gb|CP003899.1|  Mycobacterium liflandii 128FXT, complete genome    86.1    5e-13
+emb|HE663067.1|  Mycobacterium tuberculosis 7199-99 complete g...  86.1    5e-13
+gb|CP003078.1|  Mycobacterium smegmatis JS623, complete genome     86.1    5e-13
+emb|FO203508.1|  Mycobacterium canettii CIPT 140070008 complet...  86.1    5e-13
+gb|CP001976.1|  Mycobacterium tuberculosis KZN 605, complete g...  86.1    5e-13
+gb|CP003491.1|  Mycobacterium sp. MOTT36Y, complete genome         86.1    5e-13
+gb|CP003234.1|  Mycobacterium tuberculosis RGTB423, complete g...  86.1    5e-13
+gb|CP003233.1|  Mycobacterium tuberculosis RGTB327, complete g...  86.1    5e-13
+dbj|AP012340.1|  Mycobacterium tuberculosis str. Erdman = ATCC...  86.1    5e-13
+gb|CP003323.1|  Mycobacterium intracellulare MOTT-02, complete...  86.1    5e-13
+gb|CP003322.1|  Mycobacterium intracellulare ATCC 13950, compl...  86.1    5e-13
+emb|HE608151.1|  Mycobacterium tuberculosis UT205 complete genome  86.1    5e-13
+gb|CP002095.1|  Mycobacterium bovis BCG str. Mexico, complete ...  86.1    5e-13
+gb|CP002992.1|  Mycobacterium tuberculosis CTRI-2, complete ge...  86.1    5e-13
+emb|AM412059.2|  Mycobacterium bovis BCG str. Moreau RDJ compl...  86.1    5e-13
+emb|FR878060.1|  Mycobacterium africanum GM041182 complete genome  86.1    5e-13
+gb|CP001642.1|  Mycobacterium tuberculosis CCDC5180, complete ...  86.1    5e-13
+gb|CP001641.1|  Mycobacterium tuberculosis CCDC5079, complete ...  86.1    5e-13
+gb|CP002329.1|  Mycobacterium sp. JDM601, complete genome          86.1    5e-13
+gb|CP001662.1|  Mycobacterium tuberculosis KZN 4207, complete ...  86.1    5e-13
+gb|CP001658.1|  Mycobacterium tuberculosis KZN 1435, complete ...  86.1    5e-13
+dbj|AP010918.1|  Mycobacterium bovis BCG str. Tokyo 172 DNA, c...  86.1    5e-13
+gb|CP000854.1|  Mycobacterium marinum M, complete genome           86.1    5e-13
+gb|CP000717.1|  Mycobacterium tuberculosis F11, complete genome    86.1    5e-13
+gb|CP000611.1|  Mycobacterium tuberculosis H37Ra, complete genome  86.1    5e-13
+emb|AM408590.1|  Mycobacterium bovis BCG Pasteur 1173P2, compl...  86.1    5e-13
+gb|CP000325.1|  Mycobacterium ulcerans Agy99, complete genome      86.1    5e-13
+gb|AE000516.2|  Mycobacterium tuberculosis CDC1551, complete g...  86.1    5e-13
+emb|BX248342.1|  Mycobacterium bovis subsp. bovis AF2122/97 co...  86.1    5e-13
+gb|CP004374.1|  Mycobacterium abscessus subsp. bolletii 50594,...  78.7    8e-11
+emb|CU458896.1|  Mycobacterium abscessus chromosome, complete ...  78.7    8e-11
+gb|CP003699.1|  Mycobacterium massiliense str. GO 06, complete...  75.0    1e-09
+gb|CP006850.1|  Nocardia nova SH22a, complete genome               52.8    0.005
+
+ALIGNMENTS
+>gb|CP000580.1| Mycobacterium sp. JLS, complete genome
+Length=6048425
+
+ Features flanking this part of subject sequence:
+   189 bp at 5' side: ErfK/YbiS/YcfS/YnhG family protein
+   273 bp at 3' side: hypothetical protein
+
+ Score = 95.3 bits (51),  Expect = 8e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Minus
+
+Query  36356    TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3856043  TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  3855993
+
+
+ Features flanking this part of subject sequence:
+   619 bp at 5' side: hypothetical protein
+   104 bp at 3' side: hypothetical protein
+
+ Score = 89.8 bits (48),  Expect = 4e-14
+ Identities = 48/48 (100%), Gaps = 0/48 (0%)
+ Strand=Plus/Minus
+
+Query  36356    TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAG  36403
+                ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3869136  TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAG  3869089
+
+
+>gb|CP000518.1| Mycobacterium sp. KMS, complete genome
+Length=5737227
+
+ Features flanking this part of subject sequence:
+   189 bp at 5' side: ErfK/YbiS/YcfS/YnhG family protein
+   104 bp at 3' side: PE-PGRS family protein
+
+ Score = 95.3 bits (51),  Expect = 8e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Minus
+
+Query  36356    TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3922910  TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  3922860
+
+
+>gb|CP000384.1| Mycobacterium sp. MCS, complete genome
+Length=5705448
+
+ Features flanking this part of subject sequence:
+   189 bp at 5' side: ErfK/YbiS/YcfS/YnhG
+   104 bp at 3' side: PE-PGRS family protein
+
+ Score = 95.3 bits (51),  Expect = 8e-16
+ Identities = 51/51 (100%), Gaps = 0/51 (0%)
+ Strand=Plus/Minus
+
+Query  36356    TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3888428  TGGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  3888378
+
+
+>gb|CP006936.1| Mycobacterium neoaurum VKM Ac-1815D, complete genome
+Length=5438192
+
+ Features flanking this part of subject sequence:
+   188 bp at 5' side: hypothetical protein
+   108 bp at 3' side: IclR family transcriptional regulator
+
+ Score = 93.5 bits (50),  Expect = 3e-15
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  36357    GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4158829  GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  4158780
+
+
+>dbj|AP012555.1| Mycobacterium avium subsp. hominissuis TH135 chromosomal DNA, 
+complete genome
+Length=4951217
+
+ Features flanking this part of subject sequence:
+   108 bp at 5' side: hypothetical protein
+   221 bp at 3' side: hypothetical protein
+
+ Score = 93.5 bits (50),  Expect = 3e-15
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Plus
+
+Query  36357    GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1512741  GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  1512790
+
+
+>gb|CP005928.1| Mycobacterium avium subsp. paratuberculosis MAP4, complete genome
+Length=4829424
+
+ Features flanking this part of subject sequence:
+   108 bp at 5' side: hypothetical protein
+   221 bp at 3' side: hypothetical protein
+
+ Score = 93.5 bits (50),  Expect = 3e-15
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Plus
+
+Query  36357    GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1600752  GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  1600801
+
+
+>gb|CP003053.1| Mycobacterium chubuense NBB4, complete genome
+Length=5583723
+
+ Features flanking this part of subject sequence:
+   193 bp at 5' side: hypothetical protein
+   126 bp at 3' side: hypothetical protein
+
+ Score = 93.5 bits (50),  Expect = 3e-15
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  36357    GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3741748  GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  3741699
+
+
+>gb|CP003169.1| Mycobacterium rhodesiae NBB3, complete genome
+Length=6415739
+
+ Features flanking this part of subject sequence:
+   164 bp at 5' side: putative membrane protein
+   174 bp at 3' side: hypothetical protein
+
+ Score = 93.5 bits (50),  Expect = 3e-15
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Plus
+
+Query  36357    GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4069604  GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  4069653
+
+
+>gb|CP000479.1| Mycobacterium avium 104, complete genome
+Length=5475491
+
+ Features flanking this part of subject sequence:
+   107 bp at 5' side: conserved hypothetical protein
+   221 bp at 3' side: conserved hypothetical protein
+
+ Score = 93.5 bits (50),  Expect = 3e-15
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Plus
+
+Query  36357    GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1627429  GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  1627478
+
+
+>gb|AE016958.1| Mycobacterium avium subsp. paratuberculosis str. k10, complete 
+genome
+Length=4829781
+
+ Features flanking this part of subject sequence:
+   221 bp at 5' side: hypothetical protein
+   108 bp at 3' side: hypothetical protein
+
+ Score = 93.5 bits (50),  Expect = 3e-15
+ Identities = 50/50 (100%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  36357    GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2609804  GGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2609755
+
+
+>gb|CP001663.1| Mycobacterium smegmatis str. MC2 155, complete genome
+Length=6988208
+
+ Features flanking this part of subject sequence:
+   178 bp at 5' side: Putative uncharacterized protein (Secreted lipoprotein Er...
+   1120 bp at 3' side: hypothetical protein
+
+ Score = 91.6 bits (49),  Expect = 1e-14
+ Identities = 49/49 (100%), Gaps = 0/49 (0%)
+ Strand=Plus/Minus
+
+Query  36358    GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4849596  GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  4849548
+
+
+>gb|CP002385.1| Mycobacterium gilvum Spyr1, complete genome
+Length=5547747
+
+ Features flanking this part of subject sequence:
+   10 bp at 5' side: Diacylglycerol O-acyltransferase
+   188 bp at 3' side: uncharacterized conserved protein
+
+ Score = 91.6 bits (49),  Expect = 1e-14
+ Identities = 52/53 (98%), Gaps = 1/53 (2%)
+ Strand=Plus/Plus
+
+Query  36355    CTG-GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||| |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2011134  CTGTGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2011186
+
+
+>gb|CP000656.1| Mycobacterium gilvum PYR-GCK, complete genome
+Length=5619607
+
+ Features flanking this part of subject sequence:
+   10 bp at 5' side: Diacylglycerol O-acyltransferase
+   188 bp at 3' side: ErfK/YbiS/YcfS/YnhG family protein
+
+ Score = 91.6 bits (49),  Expect = 1e-14
+ Identities = 52/53 (98%), Gaps = 1/53 (2%)
+ Strand=Plus/Plus
+
+Query  36355    CTG-GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||| |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2652374  CTGTGTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2652426
+
+
+>gb|CP000511.1| Mycobacterium vanbaalenii PYR-1, complete genome
+Length=6491865
+
+ Features flanking this part of subject sequence:
+   188 bp at 5' side: ErfK/YbiS/YcfS/YnhG family protein
+   103 bp at 3' side: Diacylglycerol O-acyltransferase
+
+ Score = 91.6 bits (49),  Expect = 1e-14
+ Identities = 49/49 (100%), Gaps = 0/49 (0%)
+ Strand=Plus/Minus
+
+Query  36358    GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4395918  GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  4395870
+
+
+>gb|CP000480.1| Mycobacterium smegmatis str. MC2 155, complete genome
+Length=6988209
+
+ Features flanking this part of subject sequence:
+   196 bp at 5' side: ErfK/YbiS/YcfS/YnhG family protein
+   96 bp at 3' side: hypothetical protein
+
+ Score = 91.6 bits (49),  Expect = 1e-14
+ Identities = 49/49 (100%), Gaps = 0/49 (0%)
+ Strand=Plus/Minus
+
+Query  36358    GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4847984  GTGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  4847936
+
+
+>emb|FO203510.1| Mycobacterium canettii CIPT 140070017 complete genome
+Length=4524466
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: Conserved lipoprotein of unknown function, lipoprotein LppS
+   19 bp at 3' side: Conserved protein of unknown function
+
+ Score = 89.8 bits (48),  Expect = 4e-14
+ Identities = 48/48 (100%), Gaps = 0/48 (0%)
+ Strand=Plus/Minus
+
+Query  36359    TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2940538  TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2940491
+
+
+>emb|FO203509.1| Mycobacterium canettii CIPT 140070010 complete genome
+Length=4525948
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: Conserved lipoprotein of unknown function, lipoprotein LppS
+   19 bp at 3' side: Conserved protein of unknown function
+
+ Score = 89.8 bits (48),  Expect = 4e-14
+ Identities = 48/48 (100%), Gaps = 0/48 (0%)
+ Strand=Plus/Minus
+
+Query  36359    TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2958041  TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2957994
+
+
+>emb|FO203507.1| Mycobacterium canettii CIPT 140060008 complete genome
+Length=4432426
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: Conserved lipoprotein of unknown function, lipoprotein LppS
+   19 bp at 3' side: Conserved protein of unknown function
+
+ Score = 89.8 bits (48),  Expect = 4e-14
+ Identities = 48/48 (100%), Gaps = 0/48 (0%)
+ Strand=Plus/Minus
+
+Query  36359    TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2875132  TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2875085
+
+
+>gb|CP002275.1| Mycobacterium indicus pranii MTCC 9506, complete genome
+Length=5589007
+
+ Features flanking this part of subject sequence:
+   140 bp at 5' side: Hypothetical protein
+   125 bp at 3' side: Integrase
+
+ Score = 89.8 bits (48),  Expect = 4e-14
+ Identities = 48/48 (100%), Gaps = 0/48 (0%)
+ Strand=Plus/Plus
+
+Query  36359    TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1716334  TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  1716381
+
+
+ Features flanking this part of subject sequence:
+   164 bp at 5' side: Hypothetical protein
+   19 bp at 3' side: Hypothetical protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Plus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1756802  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  1756847
+
+
+>gb|CP003324.1| Mycobacterium intracellulare MOTT-64, complete genome
+Length=5501090
+
+ Features flanking this part of subject sequence:
+   140 bp at 5' side: hypothetical protein
+   296 bp at 3' side: hypothetical protein
+
+ Score = 89.8 bits (48),  Expect = 4e-14
+ Identities = 48/48 (100%), Gaps = 0/48 (0%)
+ Strand=Plus/Plus
+
+Query  36359    TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1543825  TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  1543872
+
+
+>emb|HE572590.1| Mycobacterium canettii CIPT 140010059 complete genome
+Length=4482059
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: putative conserved lipoprotein LPPS
+   308 bp at 3' side: putative bacterioferritin comigratory protein BCP
+
+ Score = 89.8 bits (48),  Expect = 4e-14
+ Identities = 48/48 (100%), Gaps = 0/48 (0%)
+ Strand=Plus/Minus
+
+Query  36359    TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2906469  TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2906422
+
+
+>gb|CP006835.1| Mycobacterium kansasii ATCC 12478, complete genome
+Length=6432277
+
+ Features flanking this part of subject sequence:
+   236 bp at 5' side: hypothetical protein
+   213 bp at 3' side: hypothetical protein
+
+ Score = 87.9 bits (47),  Expect = 1e-13
+ Identities = 47/47 (100%), Gaps = 0/47 (0%)
+ Strand=Plus/Minus
+
+Query  36360    GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1284656  GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  1284610
+
+
+>emb|FM211192.1| Mycobacterium leprae Br4923, complete genome sequence
+Length=3268071
+
+ Features flanking this part of subject sequence:
+   33 bp at 5' side: putative membrane protein
+   207 bp at 3' side: putative secreted protein
+
+ Score = 87.9 bits (47),  Expect = 1e-13
+ Identities = 47/47 (100%), Gaps = 0/47 (0%)
+ Strand=Plus/Plus
+
+Query  36360   GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+               |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  524685  GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  524731
+
+
+>emb|AL583918.1| Mycobacterium leprae strain TN complete genome; segment 2/10
+Length=344050
+
+ Score = 87.9 bits (47),  Expect = 1e-13
+ Identities = 47/47 (100%), Gaps = 0/47 (0%)
+ Strand=Plus/Plus
+
+Query  36360   GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+               |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  180676  GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  180722
+
+
+>emb|Z97179.1| Mycobacterium leprae cosmid L383
+Length=35335
+
+ Score = 87.9 bits (47),  Expect = 1e-13
+ Identities = 47/47 (100%), Gaps = 0/47 (0%)
+ Strand=Plus/Plus
+
+Query  36360  GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+              |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  20771  GGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  20817
+
+
+>gb|CP003494.1| Mycobacterium bovis BCG str. ATCC 35743, complete genome
+Length=4334064
+
+ Features flanking this part of subject sequence:
+   256 bp at 5' side: ErfK/YbiS/YcfS/YnhG family protein
+   218 bp at 3' side: Pe-pgrs family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2510029  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2509984
+
+
+>gb|CP002885.1| Mycobacterium tuberculosis CCDC5180, complete genome
+Length=4414346
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: putative lipoprotein LppS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2828352  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2828307
+
+
+>gb|CP002883.1| Mycobacterium tuberculosis BT1, complete genome
+Length=4399405
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: putative lipoprotein LppS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2825172  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2825127
+
+
+>gb|CP002882.1| Mycobacterium tuberculosis BT2, complete genome
+Length=4401899
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: putative lipoprotein LppS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2817779  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2817734
+
+
+>gb|CP002871.1| Mycobacterium tuberculosis HKBS1, complete genome
+Length=4407929
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: putative lipoprotein LppS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2827541  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2827496
+
+
+>gb|CP003248.2| Mycobacterium tuberculosis H37Rv, complete genome
+Length=4411709
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: l,d-transpeptidase LdtB
+   218 bp at 3' side: PE family protein PE26
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2835577  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2835532
+
+
+>gb|CP001664.1| Mycobacterium tuberculosis str. Haarlem, complete genome
+Length=4408224
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: l,d-transpeptidase LdtB
+   218 bp at 3' side: PE family protein PE26
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2830173  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2830128
+
+
+>gb|CP006578.1| Mycobacterium tuberculosis EAI5, complete genome
+Length=4391174
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: hypothetical protein
+   218 bp at 3' side: hypothetical protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2823354  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2823309
+
+
+>gb|CP003347.1| Mycobacterium sp. 05-1390, complete genome
+Length=5521023
+
+ Features flanking this part of subject sequence:
+   129 bp at 5' side: hypothetical protein
+   209 bp at 3' side: hypothetical protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Plus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1551477  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  1551522
+
+
+>gb|CP002884.1| Mycobacterium tuberculosis CCDC5079, complete genome
+Length=4414325
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: putative lipoprotein LppS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2830104  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2830059
+
+
+>gb|CP005387.1| Mycobacterium tuberculosis EAI5/NITR206, complete genome
+Length=4390306
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: lipoprotein LppS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2822866  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2822821
+
+
+>gb|CP005386.1| Mycobacterium tuberculosis CAS/NITR204, complete genome
+Length=4392876
+
+ Features flanking this part of subject sequence:
+   256 bp at 5' side: hypothetical protein
+   218 bp at 3' side: hypothetical protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2826007  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2825962
+
+
+>gb|CP004886.1| Mycobacterium tuberculosis str. Haarlem/NITR202, complete genome
+Length=4404786
+
+ Features flanking this part of subject sequence:
+   4200 bp at 5' side: hypothetical protein
+   193 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2832201  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2832156
+
+
+>gb|CP005082.1| Mycobacterium tuberculosis str. Beijing/NITR203, complete genome
+Length=4411128
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: lipoprotein LppS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2835314  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2835269
+
+
+>gb|CP003900.2| Mycobacterium bovis BCG str. Korea 1168P, complete genome
+Length=4376711
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: lipoprotein LppS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2769011  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2768966
+
+
+>emb|AL123456.3| Mycobacterium tuberculosis H37Rv complete genome
+Length=4411532
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: Probable L,D-transpeptidase LdtB
+   218 bp at 3' side: PE family protein PE26
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2835567  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2835522
+
+
+>gb|CP003899.1| Mycobacterium liflandii 128FXT, complete genome
+Length=6208955
+
+ Features flanking this part of subject sequence:
+   93 bp at 5' side: putative secreted protein
+   2 bp at 3' side: hypothetical protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4493400  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  4493355
+
+
+>emb|HE663067.1| Mycobacterium tuberculosis 7199-99 complete genome
+Length=4421197
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: putative L,D-TRANSPEPTIDASE LDTB
+   218 bp at 3' side: PE FAMILY protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2836181  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2836136
+
+
+>gb|CP003078.1| Mycobacterium smegmatis JS623, complete genome
+Length=6464916
+
+ Features flanking this part of subject sequence:
+   188 bp at 5' side: hypothetical protein
+   610 bp at 3' side: hypothetical protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4356615  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  4356570
+
+
+>emb|FO203508.1| Mycobacterium canettii CIPT 140070008 complete genome
+Length=4420197
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: Conserved lipoprotein of unknown function, lipoprotein LppS
+   193 bp at 3' side: Conserved protein of unknown function, PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2887917  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2887872
+
+
+>gb|CP001976.1| Mycobacterium tuberculosis KZN 605, complete genome
+Length=4399120
+
+ Features flanking this part of subject sequence:
+   218 bp at 5' side: PE family protein
+   187 bp at 3' side: lipoprotein lppS
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Plus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1578360  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  1578405
+
+
+>gb|CP003491.1| Mycobacterium sp. MOTT36Y, complete genome
+Length=5613626
+
+ Features flanking this part of subject sequence:
+   129 bp at 5' side: hypothetical protein
+   209 bp at 3' side: hypothetical protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Plus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1528321  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  1528366
+
+
+>gb|CP003234.1| Mycobacterium tuberculosis RGTB423, complete genome
+Length=4406587
+
+ Features flanking this part of subject sequence:
+   1762 bp at 5' side: hypothetical protein
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2835466  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2835421
+
+
+>gb|CP003233.1| Mycobacterium tuberculosis RGTB327, complete genome
+Length=4380119
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: hypothetical protein
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2829228  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2829183
+
+
+>dbj|AP012340.1| Mycobacterium tuberculosis str. Erdman = ATCC 35801 DNA, complete 
+genome
+Length=4392353
+
+ Features flanking this part of subject sequence:
+   256 bp at 5' side: lipoprotein
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2823154  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2823109
+
+
+>gb|CP003323.1| Mycobacterium intracellulare MOTT-02, complete genome
+Length=5409696
+
+ Features flanking this part of subject sequence:
+   129 bp at 5' side: hypothetical protein
+   209 bp at 3' side: hypothetical protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Plus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1754267  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  1754312
+
+
+>gb|CP003322.1| Mycobacterium intracellulare ATCC 13950, complete genome
+Length=5402402
+
+ Features flanking this part of subject sequence:
+   129 bp at 5' side: hypothetical protein
+   209 bp at 3' side: hypothetical protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Plus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1791517  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  1791562
+
+
+>emb|HE608151.1| Mycobacterium tuberculosis UT205 complete genome
+Length=4418088
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: lppS
+   218 bp at 3' side: PE26
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2840298  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2840253
+
+
+>gb|CP002095.1| Mycobacterium bovis BCG str. Mexico, complete genome
+Length=4350386
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: Putative lipoprotein
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2778728  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2778683
+
+
+>gb|CP002992.1| Mycobacterium tuberculosis CTRI-2, complete genome
+Length=4398525
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: lipoprotein LppS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2830471  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2830426
+
+
+>emb|AM412059.2| Mycobacterium bovis BCG str. Moreau RDJ complete genome
+Length=4340116
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: probable conserved lipoprotein lppS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2791860  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2791815
+
+
+>emb|FR878060.1| Mycobacterium africanum GM041182 complete genome
+Length=4389314
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: putative conserved lipoprotein LPPS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2822355  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2822310
+
+
+>gb|CP001642.1| Mycobacterium tuberculosis CCDC5180, complete genome
+Length=4405981
+
+ Features flanking this part of subject sequence:
+   256 bp at 5' side: lipoprotein lppS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2823774  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2823729
+
+
+>gb|CP001641.1| Mycobacterium tuberculosis CCDC5079, complete genome
+Length=4398812
+
+ Features flanking this part of subject sequence:
+   256 bp at 5' side: lipoprotein lppS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2817367  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2817322
+
+
+>gb|CP002329.1| Mycobacterium sp. JDM601, complete genome
+Length=4643668
+
+ Features flanking this part of subject sequence:
+   160 bp at 5' side: hypothetical protein
+   240 bp at 3' side: lipoprotein LppS
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Plus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1492521  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  1492566
+
+
+>gb|CP001662.1| Mycobacterium tuberculosis KZN 4207, complete genome
+Length=4394985
+
+ Features flanking this part of subject sequence:
+   218 bp at 5' side: PE family protein
+   187 bp at 3' side: lipoprotein lppS
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Plus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1578191  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  1578236
+
+
+>gb|CP001658.1| Mycobacterium tuberculosis KZN 1435, complete genome
+Length=4398250
+
+ Features flanking this part of subject sequence:
+   218 bp at 5' side: PE family protein
+   187 bp at 3' side: lipoprotein lppS
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Plus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1578247  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  1578292
+
+
+>dbj|AP010918.1| Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome
+Length=4371711
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: putative lipoprotein
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2792136  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2792091
+
+
+>gb|CP000854.1| Mycobacterium marinum M, complete genome
+Length=6636827
+
+ Features flanking this part of subject sequence:
+   93 bp at 5' side: hypothetical secreted protein
+   217 bp at 3' side: conserved hypothetical protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4812333  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  4812288
+
+
+ Features flanking this part of subject sequence:
+   149 bp at 5' side: hypothetical protein
+   2 bp at 3' side: conserved hypothetical protein
+
+ Score = 82.4 bits (44),  Expect = 6e-12
+ Identities = 44/44 (100%), Gaps = 0/44 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGT  36404
+                ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4869669  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGT  4869626
+
+
+>gb|CP000717.1| Mycobacterium tuberculosis F11, complete genome
+Length=4424435
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: lipoprotein lppS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2848885  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2848840
+
+
+>gb|CP000611.1| Mycobacterium tuberculosis H37Ra, complete genome
+Length=4419977
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: putative conserved lipoprotein LppS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2847535  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2847490
+
+
+>emb|AM408590.1| Mycobacterium bovis BCG Pasteur 1173P2, complete genome
+Length=4374522
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: Probable conserved lipoprotein lppS
+   218 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2799363  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2799318
+
+
+>gb|CP000325.1| Mycobacterium ulcerans Agy99, complete genome
+Length=5631606
+
+ Features flanking this part of subject sequence:
+   93 bp at 5' side: hypothetical secreted protein
+   670 bp at 3' side: conserved hypothetical protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4246301  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  4246256
+
+
+>gb|AE000516.2| Mycobacterium tuberculosis CDC1551, complete genome
+Length=4403837
+
+ Features flanking this part of subject sequence:
+   187 bp at 5' side: conserved hypothetical protein
+   191 bp at 3' side: PE family protein
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2831055  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  2831010
+
+
+>emb|BX248342.1| Mycobacterium bovis subsp. bovis AF2122/97 complete genome; segment 
+9/14
+Length=306550
+
+ Score = 86.1 bits (46),  Expect = 5e-13
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  36361   GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+               ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  291364  GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  291319
+
+
+>gb|CP004374.1| Mycobacterium abscessus subsp. bolletii 50594, complete genome
+Length=5000473
+
+ Features flanking this part of subject sequence:
+   329 bp at 5' side: hypothetical protein
+   186 bp at 3' side: putative lipoprotein lppS
+
+ Score = 78.7 bits (42),  Expect = 8e-11
+ Identities = 46/48 (96%), Gaps = 0/48 (0%)
+ Strand=Plus/Plus
+
+Query  36359    TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||  ||||||||||||||||||||||||||||||
+Sbjct  1644761  TGGTGCGCCGTCAGGGGCTCGAACCCCGGACCCGCTGATTAAGAGTCA  1644808
+
+
+ Features flanking this part of subject sequence:
+   195 bp at 5' side: hypothetical protein
+   133 bp at 3' side: hypothetical protein
+
+ Score = 73.1 bits (39),  Expect = 4e-09
+ Identities = 43/45 (96%), Gaps = 0/45 (0%)
+ Strand=Plus/Plus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTC  36405
+                ||||||||||||||  |||||||||||||||||||||||||||||
+Sbjct  1573263  GTGCGCCGTCAGGGGCTCGAACCCCGGACCCGCTGATTAAGAGTC  1573307
+
+
+>emb|CU458896.1| Mycobacterium abscessus chromosome, complete sequence
+Length=5067172
+
+ Features flanking this part of subject sequence:
+   195 bp at 5' side: Conserved hypothetical protein
+   186 bp at 3' side: Probable conserved lipoprotein LppS
+
+ Score = 78.7 bits (42),  Expect = 8e-11
+ Identities = 46/48 (96%), Gaps = 0/48 (0%)
+ Strand=Plus/Plus
+
+Query  36359    TGGTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||||  ||||||||||||||||||||||||||||||
+Sbjct  1550158  TGGTGCGCCGTCAGGGGCTCGAACCCCGGACCCGCTGATTAAGAGTCA  1550205
+
+
+>gb|CP003699.1| Mycobacterium massiliense str. GO 06, complete genome
+Length=5068807
+
+ Features flanking this part of subject sequence:
+   196 bp at 5' side: UPF0336 protein
+   264 bp at 3' side: Putative L,D-transpeptidase
+
+ Score = 75.0 bits (40),  Expect = 1e-09
+ Identities = 44/46 (96%), Gaps = 0/46 (0%)
+ Strand=Plus/Plus
+
+Query  36361    GTGCGCCGTCAGGGTTTCGAACCCCGGACCCGCTGATTAAGAGTCA  36406
+                ||||||||||||||  ||||||||||||||||||||||||||||||
+Sbjct  1550825  GTGCGCCGTCAGGGGCTCGAACCCCGGACCCGCTGATTAAGAGTCA  1550870
+
+
+>gb|CP006850.1| Nocardia nova SH22a, complete genome
+Length=8348532
+
+ Features in this part of subject sequence:
+   cutinase domain-containing protein
+
+ Score = 52.8 bits (28),  Expect = 0.005
+ Identities = 28/28 (100%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  27236   GCCGGGTTCTCGCAGGGCGCGGTCGTGG  27263
+               ||||||||||||||||||||||||||||
+Sbjct  166184  GCCGGGTTCTCGCAGGGCGCGGTCGTGG  166211
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Apr 23, 2014  1:45 PM
+  Number of letters in database: 652,114,680
+  Number of sequences in database:  33,996
+
+Lambda      K        H
+    1.33    0.621     1.12 
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+Matrix: blastn matrix:1 -2
+Gap Penalties: Existence: 0, Extension: 0
+Number of Sequences: 33996
+Number of Hits to DB: 875814
+Number of extensions: 11
+Number of successful extensions: 11
+Number of sequences better than 10: 11
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 11
+Number of HSP's successfully gapped: 11
+Length of query: 60588
+Length of database: 652114680
+Length adjustment: 33
+Effective length of query: 60555
+Effective length of database: 650992812
+Effective search space: 39420869730660
+Effective search space used: 39420869730660
+A: 0
+X1: 13 (25.0 bits)
+X2: 32 (59.1 bits)
+X3: 54 (99.7 bits)
+S1: 13 (25.1 bits)
+S2: 23 (43.6 bits)
+
+
+
+

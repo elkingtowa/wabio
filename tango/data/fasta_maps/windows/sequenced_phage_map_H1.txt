@@ -1,0 +1,4 @@
+Damien(H1)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Damien.fasta
+Konstantine(H1)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Konstantine.fasta
+Oaker(H1)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Oaker.fasta
+Predator(H1)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Predator.fasta

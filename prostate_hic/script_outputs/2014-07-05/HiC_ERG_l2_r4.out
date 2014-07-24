@@ -1,0 +1,10 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 310097
+##  Job Name : HiC_ERG_l2_r4
+##  Nodelist : node823
+##      CPUs : 1
+##  Mem/Node : 65536 MB
+## Directory : /gpfs/home/bsiranos/projects/prostate_hic/batch_scripts
+##   Started : Sat Jul  5 10:29:16 EDT 2014
+###############################################################################
+/gpfs/runtime/opt/samtools/0.1.19/bin/samtools

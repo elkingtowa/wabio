@@ -1,0 +1,4 @@
+Damien(H1)	/users/bsiranos/projects/phage_fasta/Damien.fasta
+Konstantine(H1)	/users/bsiranos/projects/phage_fasta/Konstantine.fasta
+Oaker(H1)	/users/bsiranos/projects/phage_fasta/Oaker.fasta
+Predator(H1)	/users/bsiranos/projects/phage_fasta/Predator.fasta

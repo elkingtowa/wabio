@@ -1,0 +1,15 @@
+Adephagia(K1)	/users/bsiranos/projects/phage_fasta/Adephagia.fasta
+Amelie(K1)	/users/bsiranos/projects/phage_fasta/Amelie.fasta
+Anaya(K1)	/users/bsiranos/projects/phage_fasta/Anaya.fasta
+Angelica(K1)	/users/bsiranos/projects/phage_fasta/Angelica.fasta
+BarrelRoll(K1)	/users/bsiranos/projects/phage_fasta/BarrelRoll.fasta
+BEEST(K1)	/users/bsiranos/projects/phage_fasta/BEEST.fasta
+CREW(K1)	/users/bsiranos/projects/phage_fasta/CREW.fasta
+CrimD(K1)	/users/bsiranos/projects/phage_fasta/CrimD.fasta
+Emerson(K1)	/users/bsiranos/projects/phage_fasta/Emerson.fasta
+Homura(K1)	/users/bsiranos/projects/phage_fasta/Homura.fasta
+JAWS(K1)	/users/bsiranos/projects/phage_fasta/JAWS.fasta
+Joy99(K1)	/users/bsiranos/projects/phage_fasta/Joy99.fasta
+Murucutumbu(K1)	/users/bsiranos/projects/phage_fasta/Murucutumbu.fasta
+Sulley(K1)	/users/bsiranos/projects/phage_fasta/Sulley.fasta
+Validus(K1)	/users/bsiranos/projects/phage_fasta/Validus.fasta

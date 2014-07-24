@@ -1,0 +1,9 @@
+Archie(L2)	/users/bsiranos/projects/phage_fasta/Archie.fasta
+Breezona(L2)	/users/bsiranos/projects/phage_fasta/Breezona.fasta
+Crossroads(L2)	/users/bsiranos/projects/phage_fasta/Crossroads.fasta
+Faith1(L2)	/users/bsiranos/projects/phage_fasta/Faith1.fasta
+Loadrie(L2)	/users/bsiranos/projects/phage_fasta/Loadrie.fasta
+MkaliMitinis3(L2)	/users/bsiranos/projects/phage_fasta/MkaliMitinis3.fasta
+Nicholasp3(L2)	/users/bsiranos/projects/phage_fasta/Nicholasp3.fasta
+Rumpelstiltskin(L2)	/users/bsiranos/projects/phage_fasta/Rumpelstiltskin.fasta
+Winky(L2)	/users/bsiranos/projects/phage_fasta/Winky.fasta

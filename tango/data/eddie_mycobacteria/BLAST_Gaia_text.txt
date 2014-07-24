@@ -1,0 +1,316 @@
+BLASTN 2.2.29+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and
+Webb Miller (2000), "A greedy algorithm for aligning DNA
+sequences", J Comput Biol 2000; 7(1-2):203-14.
+
+
+RID: NWWHAJ00014
+
+
+Database: Nucleotide collection (nt)
+           22,335,882 sequences; 57,344,586,646 total letters
+Query= Gaia complete sequence, 90460 bp including 10 bp 3' overhang
+(CGGCCAGCTG)
+
+Length=90460
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+dbj|AP012555.1|  Mycobacterium avium subsp. hominissuis TH135 ...    935   0.0  
+gb|AY266291.1|  Escherichia coli/Mycobacteria shuttle vector p...    337   2e-88
+gb|CP003699.1|  Mycobacterium massiliense str. GO 06, complete...    226   4e-55
+emb|CU458896.1|  Mycobacterium abscessus chromosome, complete ...    226   4e-55
+gb|CP003078.1|  Mycobacterium smegmatis JS623, complete genome       176   4e-40
+
+ALIGNMENTS
+>dbj|AP012555.1| Mycobacterium avium subsp. hominissuis TH135 chromosomal DNA, 
+complete genome
+Length=4951217
+
+ Features in this part of subject sequence:
+   hypothetical protein
+   hypothetical protein
+
+ Score =   935 bits (506),  Expect = 0.0
+ Identities = 927/1124 (82%), Gaps = 53/1124 (5%)
+ Strand=Plus/Minus
+
+Query  72598  GTCCGGGAGCAGGCGCAGCAGAAGCGCGACCTGATCTGGGAGAGTGCGACCGCCGCGGCG  72657
+              ||||| |||  ||||||||||   ||||||||||||   || || || ||||| ||||| 
+Sbjct  32275  GTCCGCGAGTTGGCGCAGCAGCGCCGCGACCTGATCACCGAAAGCGCCACCGCGGCGGCC  32216
+
+Query  72658  ACAGCATTGGATCGGGCG-----GCA-C---CGACACCTGGCCCCGAGCCGGTGCTGGGT  72708
+              ||| ||||| | ||||||     ||| |   ||||||||||   || |||||||||  | 
+Sbjct  32215  ACAACATTGCACCGGGCGACATTGCAGCGGGCGACACCTGGGGTCGGGCCGGTGCTCAGC  32156
+
+Query  72709  GGCTGGTTGCTGGCCGCCGA--GCACCGCGTCCGGCAATGGCGCGATA-AGACTGCTGCC  72765
+              |  ||| ||  ||  | |||  || ||||| ||| |||||||| || | |||| || || 
+Sbjct  32155  GATTGGGTGGCGG-AGGCGACCGC-CCGCGCCCGCCAATGGCGAGACAGAGAC-GCGGCG  32099
+
+Query  72766  GAGGCTCATTTGGCGGAGCTGGCTGATCCGGCCTACCGGGAAAAGCTGGAGCGGATACCG  72825
+              || |  ||| ||||||||||| |||| ||||||||||| |||| ||||||||||||||||
+Sbjct  32098  GATGTGCATCTGGCGGAGCTGACTGACCCGGCCTACCGCGAAAGGCTGGAGCGGATACCG  32039
+
+Query  72826  GAGTACTGGAGTTGAACACACCGAGGCGCCCGCCCACCCACGACGAGGCCGTGACCATCG  72885
+              ||||||||||||||||||| || |||||  |||||||||| | |||||| ||| || |||
+Sbjct  32038  GAGTACTGGAGTTGAACACGCCCAGGCGTTCGCCCACCCAGGGCGAGGCGGTGTCCGTCG  31979
+
+Query  72886  CCGTGGCGGCGAGCGGCCTGGCCGGCCATGATGTCTCGCCCGGCGCGATGGATCTCCTCG  72945
+              | |||||||||||||| ||||||||||| || || ||||| ||||||   ||||||||||
+Sbjct  31978  CTGTGGCGGCGAGCGGGCTGGCCGGCCACGAGGTTTCGCCGGGCGCGCGTGATCTCCTCG  31919
+
+Query  72946  ACCGGATCGGCCGCGGCGAACTGAGCTACGACCAGGCCGTCGCCGAGGTTATCGCGGAGT  73005
+              | || ||||  |||||||  |||| ||||||| ||||||| |||||||| ||||||||||
+Sbjct  31918  ATCGAATCGAGCGCGGCGTGCTGACCTACGACGAGGCCGTTGCCGAGGTCATCGCGGAGT  31859
+
+Query  73006  TCGGGCAACCTGCCGAGTGACTCC--CT---TCTG---A-CTG--CTAC-CA-TG-----  73047
+              |||||||||| |||  ||||| ||  |    | ||   | | |  |  | || ||     
+Sbjct  31858  TCGGGCAACCCGCCCGGTGACCCCGGCGCAGTGTGGGTATCAGGGCAGCGCAGTGTGGGC  31799
+
+Query  73048  -------GGTGGTGCCTGTTGCGTTGAGCTTCAGGAAGTGAGCCCGAGACCCGGCCGGAC  73100
+                     |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31798  TATCATAGGTGGTGCCTGTTGCGTTGAGCTTCAGGAAGTGAGCCCGAGACCCGGCCGGAC  31739
+
+Query  73101  GACCGTGGCGCTCGGGCTTCGCGATTTTTAGA-C--G-TC-----T--CGGGTGACCGTG  73149
+              ||||||||||||||||||||||||||||| |  |  | ||     |  ||||||||||||
+Sbjct  31738  GACCGTGGCGCTCGGGCTTCGCGATTTTTGGGGCCTGGTCACACGTCGCGGGTGACCGTG  31679
+
+Query  73150  ACGGCGGGGTTGATGAGCTTGCGCCAGTCGCCC-CCTTTGGCCCAGCACCAGGCGATCGC  73208
+              |||||||||||||||||||||||||||| |||| ||||||||||||||||||||||| ||
+Sbjct  31678  ACGGCGGGGTTGATGAGCTTGCGCCAGT-GCCCGCCTTTGGCCCAGCACCAGGCGATGGC  31620
+
+Query  73209  ATCGGGGATGGCCAGCAGCGCGTCGGTGTGTGGGCGTTTGTGCTCGTAGCGCAGGGTGTC  73268
+               ||||||||||||||||||||||| | ||| |||||||||||||||||| ||||||||||
+Sbjct  31619  GTCGGGGATGGCCAGCAGCGCGTCAGCGTGGGGGCGTTTGTGCTCGTAGTGCAGGGTGTC  31560
+
+Query  73269  ACGGCAACCGGTAGCTCGGGTGTACTCGATGAGTTTCTGGTTGTCGAAGTTGACCATGGT  73328
+               ||||| ||||  ||||||||||| ||||||||||||||||||||||| || ||||||||
+Sbjct  31559  GCGGCAGCCGGCGGCTCGGGTGTATTCGATGAGTTTCTGGTTGTCGAACTTCACCATGGT  31500
+
+Query  73329  CTCGTCCTCGTCGAGAACGATGTGTGCGTTGAGCGTGGTGGCATGGTCTTCGATGAGAGC  73388
+               |||||||||||||| ||||||||||||| | | | | |||| |||||||||||||| ||
+Sbjct  31499  TTCGTCCTCGTCGAGCACGATGTGTGCGTCGCGGGCGTTGGCGTGGTCTTCGATGAGGGC  31440
+
+Query  73389  GCGTAGACAAGCTGAGCGGCGCTGGCGCTCGTTGCGATGCTGGGCTCCGGCGCGGTACAC  73448
+              |||||| || ||||||||||| ||||| |||||||| || ||||| || |||||||| | 
+Sbjct  31439  GCGTAGGCACGCTGAGCGGCGTTGGCGTTCGTTGCGGTGGTGGGCGCCAGCGCGGTAGAT  31380
+
+Query  73449  GGTGGCTTGTACGCCGGCGTCGACGAAGGCTTGAGCGATCGTGCGTTTGCGGCCGTCTTT  73508
+              |||||||||||||||||||||||| | ||| || ||||| ||||||||||||||||||||
+Sbjct  31379  GGTGGCTTGTACGCCGGCGTCGACAAGGGCCTGGGCGATGGTGCGTTTGCGGCCGTCTTT  31320
+
+Query  73509  CTCGTCCTTCATATGCAGGTAGCGCTGTCCGGGCAGGAGCAGACCGCGGACCACCTGGCG  73568
+               ||||||||||| ||||||||||| |||||||| |||||||| || || | || ||| ||
+Sbjct  31319  TTCGTCCTTCATGTGCAGGTAGCGTTGTCCGGGAAGGAGCAGGCCTCGTATCAGCTGACG  31260
+
+Query  73569  CAGGGCGGTGAGGTCCGTCGTGATGTGGACGCTGGCCACGAGCAAATAGTCGCGCTGTTT  73628
+              ||| ||||  || |||||||||| |||||||||||||||||||| ||||||||| || ||
+Sbjct  31259  CAGTGCGGCCAGCTCCGTCGTGACGTGGACGCTGGCCACGAGCAGATAGTCGCGTTGCTT  31200
+
+Query  73629  GGTCTCGTCGACGTAGATGTGGCGCGCGCTCACGGCAGGCTCCG  73672
+              ||| |||||||||||||||||||| ||| ||||| || ||||||
+Sbjct  31199  GGTTTCGTCGACGTAGATGTGGCGAGCGGTCACGACATGCTCCG  31156
+
+
+>gb|AY266291.1| Escherichia coli/Mycobacteria shuttle vector pGB9.2, complete 
+sequence
+Length=11441
+
+ Score =   337 bits (182),  Expect = 2e-88
+ Identities = 335/410 (82%), Gaps = 6/410 (1%)
+ Strand=Plus/Minus
+
+Query  72598  GTCCGGGAGCAGGCGCAGCAGAAGCGCGACCTGATCTGGGAGAGTGCGACCGCCGCGGCG  72657
+              ||||| |||| |||||||||| | ||||||||||||   || || || | ||| ||||| 
+Sbjct  4650   GTCCGCGAGCTGGCGCAGCAGGACCGCGACCTGATCAACGAAAGCGCCAGCGCGGCGGCC  4591
+
+Query  72658  ACAGCATTGGATCGGGCGGCACCGACACCTGGCCCCGAGCCGGTGCTGGGTGGCTGGTTG  72717
+              ||| |||||   |  ||||   ||||||||||   || |||||||||  | | |||| ||
+Sbjct  4590   ACAACATTG---C-AGCGG--GCGACACCTGGGGTCGGGCCGGTGCTCAGCGACTGGGTG  4537
+
+Query  72718  CTGGCCGCCGAGCACCGCGTCCGGCAATGGCGCGATAAGACTGCTGCCGAGGCTCATTTG  72777
+                || ||||   |||||||| || |  |||| ||| |||  ||| |||||||| ||| ||
+Sbjct  4536   GCGGACGCCCGCCACCGCGTGCGCCGGTGGCCCGACAAGGATGCGGCCGAGGCGCATCTG  4477
+
+Query  72778  GCGGAGCTGGCTGATCCGGCCTACCGGGAAAAGCTGGAGCGGATACCGGAGTACTGGAGT  72837
+               | ||||||||||||||||||||||||  | |||  ||||||||||||||||||||||||
+Sbjct  4476   TCCGAGCTGGCTGATCCGGCCTACCGGACACAGCGCGAGCGGATACCGGAGTACTGGAGT  4417
+
+Query  72838  TGAACACACCGAGGCGCCCGCCCACCCACGACGAGGCCGTGACCATCGCCGTGGCGGCGA  72897
+              ||||||||||| |||  |||    | ||||||||||||||| ||||||||||||||||||
+Sbjct  4416   TGAACACACCGCGGCAGCCGATTTCTCACGACGAGGCCGTGTCCATCGCCGTGGCGGCGA  4357
+
+Query  72898  GCGGCCTGGCCGGCCATGATGTCTCGCCCGGCGCGATGGATCTCCTCGACCGGATCGGCC  72957
+               |||||||||||||||||| || |||| |||||| ||||| ||||||||||| |||||||
+Sbjct  4356   CCGGCCTGGCCGGCCATGACGTTTCGCTCGGCGCAATGGACCTCCTCGACCGAATCGGCC  4297
+
+Query  72958  GCGGCGAACTGAGCTACGACCAGGCCGTCGCCGAGGTTATCGCGGAGTTC  73007
+              |||||||||||| ||||||| |||||| ||||||||| ||||||||||||
+Sbjct  4296   GCGGCGAACTGACCTACGACGAGGCCGCCGCCGAGGTCATCGCGGAGTTC  4247
+
+
+>gb|CP003699.1| Mycobacterium massiliense str. GO 06, complete genome
+Length=5068807
+
+ Features flanking this part of subject sequence:
+   41536 bp at 5' side: Nodulation protein 10
+   5122 bp at 3' side: D-alanyl-D-alanine carboxypeptidase
+
+ Score =   226 bits (122),  Expect = 4e-55
+ Identities = 349/460 (76%), Gaps = 10/460 (2%)
+ Strand=Plus/Plus
+
+Query  15344    AACTGGCTGTCAGATTTCATGCTGTACGACCGCCGCGCCGAAGAGGATCTGCATTTCACG  15403
+                |||||||||||| | ||| | || || ||||||||||| ||||| ||| | || ||||||
+Sbjct  1800319  AACTGGCTGTCAAAGTTCCTTCTCTATGACCGCCGCGCTGAAGAAGATATCCAGTTCACG  1800378
+
+Query  15404    CTCGATCCTATTCCCACTAACCGGTCGTGGCGTACACGGTGGGGCGGCAAGGTGACCG-G  15462
+                || ||||| |  || ||| | ||||| |||   || || |||||||| ||   || || |
+Sbjct  1800379  CTAGATCCGAACCCTACTGATCGGTCTTGGAAAACCCGTTGGGGCGG-AA--AGATCGTG  1800435
+
+Query  15463    --CGTCAACGCGAAACGTGACGCGAACGGCCTGCACACGGTGGAAATGGAAATGATCCAC  15520
+                  |||||||||    || |||    ||||  ||||||| || ||  | || ||||| |||
+Sbjct  1800436  AACGTCAACGCAGTGCGCGACAAAGACGGGTTGCACACCGTTGAGCTCGAGATGATGCAC  1800495
+
+Query  15521    AACCGTGAGCATGTGAAACACATTTTGGGCGGCGCTAACCCTATCTTCCCGCCTGAAATT  15580
+                ||||| ||||| |  ||||||||  |||| ||||| || ||| | || ||||||||||||
+Sbjct  1800496  AACCGGGAGCACGCCAAACACATCCTGGGTGGCGCGAATCCTCTGTTACCGCCTGAAATT  1800555
+
+Query  15581    CAGTTCCCGAAGATGTTCATCCTTCCGTGGAAC-TGCCGGACTGCTGTTTCCATGATGTT  15639
+                |||||||||||||||||| ||||||| |||||| || || ||||| | ||| || ||  |
+Sbjct  1800556  CAGTTCCCGAAGATGTTCTTCCTTCCCTGGAACATG-CGCACTGCCGGTTCGATCATCAT  1800614
+
+Query  15640    GTTCATCAACCTTGCGCGGCAGTTTTTCCCGCTCTTGTCGATTCCGACGAACATGTTCAA  15699
+                |||| | ||||| || || ||||| || ||||| |||   || || |||||||| |||||
+Sbjct  1800615  GTTCTTGAACCTGGCTCGCCAGTTCTTTCCGCTATTGAGTATCCCCACGAACATTTTCAA  1800674
+
+Query  15700    CCCTGGCGCTTGGCTGGGTGTGGGGGATGTGATCGGTGGTTTCGATCCTCTC-GCATGGC  15758
+                ||||||||| ||||| || ||  ||||  | ||||| ||  | || ||  |  || ||||
+Sbjct  1800675  CCCTGGCGCCTGGCTAGGGGTTCGGGACATCATCGGCGGCCT-GAACCCGTTGGCGTGGC  1800733
+
+Query  15759    CTATCCAGGTGCAGTTCCTCAACCCGTTGTTCGACCAGTC  15798
+                |||||||||| || ||| |||||||  ||||||| |||||
+Sbjct  1800734  CTATCCAGGTCCAATTCGTCAACCCACTGTTCGATCAGTC  1800773
+
+
+>emb|CU458896.1| Mycobacterium abscessus chromosome, complete sequence
+Length=5067172
+
+ Features in this part of subject sequence:
+   Bacteriophage protein
+
+ Score =   226 bits (122),  Expect = 4e-55
+ Identities = 349/460 (76%), Gaps = 10/460 (2%)
+ Strand=Plus/Plus
+
+Query  15344    AACTGGCTGTCAGATTTCATGCTGTACGACCGCCGCGCCGAAGAGGATCTGCATTTCACG  15403
+                |||||||||||| | ||| | || || ||||||||||| ||||| ||| | || ||||||
+Sbjct  1799608  AACTGGCTGTCAAAGTTCCTTCTCTATGACCGCCGCGCTGAAGAAGATATCCAGTTCACG  1799667
+
+Query  15404    CTCGATCCTATTCCCACTAACCGGTCGTGGCGTACACGGTGGGGCGGCAAGGTGACCG-G  15462
+                || ||||| |  || ||| | ||||| |||   || || |||||||| ||   || || |
+Sbjct  1799668  CTAGATCCGAACCCTACTGATCGGTCTTGGAAAACCCGTTGGGGCGG-AA--AGATCGTG  1799724
+
+Query  15463    --CGTCAACGCGAAACGTGACGCGAACGGCCTGCACACGGTGGAAATGGAAATGATCCAC  15520
+                  |||||||||    || |||    ||||  ||||||| || ||  | || ||||| |||
+Sbjct  1799725  AACGTCAACGCAGTGCGCGACAAAGACGGGTTGCACACCGTTGAGCTCGAGATGATGCAC  1799784
+
+Query  15521    AACCGTGAGCATGTGAAACACATTTTGGGCGGCGCTAACCCTATCTTCCCGCCTGAAATT  15580
+                ||||| ||||| |  ||||||||  |||| ||||| || ||| | || ||||||||||||
+Sbjct  1799785  AACCGGGAGCACGCCAAACACATCCTGGGTGGCGCGAATCCTCTGTTACCGCCTGAAATT  1799844
+
+Query  15581    CAGTTCCCGAAGATGTTCATCCTTCCGTGGAAC-TGCCGGACTGCTGTTTCCATGATGTT  15639
+                |||||||||||||||||| ||||||| |||||| || || ||||| | ||| || ||  |
+Sbjct  1799845  CAGTTCCCGAAGATGTTCTTCCTTCCCTGGAACATG-CGCACTGCCGGTTCGATCATCAT  1799903
+
+Query  15640    GTTCATCAACCTTGCGCGGCAGTTTTTCCCGCTCTTGTCGATTCCGACGAACATGTTCAA  15699
+                |||| | ||||| || || ||||| || ||||| |||   || || |||||||| |||||
+Sbjct  1799904  GTTCTTGAACCTGGCTCGCCAGTTCTTTCCGCTATTGAGTATCCCCACGAACATTTTCAA  1799963
+
+Query  15700    CCCTGGCGCTTGGCTGGGTGTGGGGGATGTGATCGGTGGTTTCGATCCTCTC-GCATGGC  15758
+                ||||||||| ||||| || ||  ||||  | ||||| ||  | || ||  |  || ||||
+Sbjct  1799964  CCCTGGCGCCTGGCTAGGGGTTCGGGACATCATCGGCGGCCT-GAACCCGTTGGCGTGGC  1800022
+
+Query  15759    CTATCCAGGTGCAGTTCCTCAACCCGTTGTTCGACCAGTC  15798
+                |||||||||| || ||| |||||||  ||||||| |||||
+Sbjct  1800023  CTATCCAGGTCCAATTCGTCAACCCACTGTTCGATCAGTC  1800062
+
+
+>gb|CP003078.1| Mycobacterium smegmatis JS623, complete genome
+Length=6464916
+
+ Features in this part of subject sequence:
+   hypothetical protein
+
+ Score =   176 bits (95),  Expect = 4e-40
+ Identities = 297/395 (75%), Gaps = 12/395 (3%)
+ Strand=Plus/Plus
+
+Query  44315    AGCAGGTAGGTGAGGATTCCGCACAGCAGCAGCCAGTACATGTTGAGCCAGAGGTCAGTG  44374
+                ||||||||| | || || ||||| |||||||||||||| || || ||||||||||| |||
+Sbjct  2861171  AGCAGGTAGATCAGCATGCCGCAGAGCAGCAGCCAGTAGATATTCAGCCAGAGGTCGGTG  2861230
+
+Query  44375    GGCACGTCGAAGAAGTCGGGCATGTAGAT-TTTGACGCCGTTGCCGATTGAGAACAGTG-  44432
+                ||||| | ||||||||||| | |||| || |||| |||||||||||| || |||| ||| 
+Sbjct  2861231  GGCACCTGGAAGAAGTCGGCCTTGTATATCTTTG-CGCCGTTGCCGAGTGTGAAC-GTGA  2861288
+
+Query  44433    CCAGCAATAGTGGGATGCAGATGGTGGCTGGCCGTTCCACATACTGTTTGAAG-T--TTT  44489
+                ||| ||  || |||||||| |  || || ||   ||| || ||||| |||||| |  | |
+Sbjct  2861289  CCAACAGCAGCGGGATGCACAGCGTCGCAGGGTATTCGACGTACTGCTTGAAGGTCCTCT  2861348
+
+Query  44490    GTTGCAAGCGTTCTTCTGGGTCGAGTCTACCGAGGGCGTTGTATACGACTGCCGAGGCGG  44549
+                |  |  || | || ||   |   || || ||||| |||||||| || || || || ||||
+Sbjct  2861349  GCAGGGAGTGGTCGTCCT-G--AAGCCTGCCGAGAGCGTTGTACACCACGGCGGATGCGG  2861405
+
+Query  44550    CGACGATGTAGAGGTCGTGGCCGATGTAGTCCTCTAGGTTCCATTCACCGGTGCA-TCGG  44608
+                |||||||||||||||||||||||||||||||||| || ||||| |  ||||| || |  |
+Sbjct  2861406  CGACGATGTAGAGGTCGTGGCCGATGTAGTCCTCGAGATTCCACTTGCCGGT-CAGTGCG  2861464
+
+Query  44609    TGTAGCCAGTGCCCGATGGTTTGCGATGCGGCGGGGGACATGAGGATGACTGCCCCGCCT  44668
+                || ||||| || ||||  || | ||| ||    || ||||| |  |  || || || || 
+Sbjct  2861465  TGCAGCCAATGGCCGAGCGTCTCCGAAGCCCACGGAGACATCAACAGAACCGCGCCCCCC  2861524
+
+Query  44669    TGTAGTGCGATGTTGAGTGTGGCTGCTACCTCCCA  44703
+                || | ||||||||| || ||||| || | ||||||
+Sbjct  2861525  TGCAATGCGATGTTCAGGGTGGCGGCGAACTCCCA  2861559
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Apr 23, 2014  1:45 PM
+  Number of letters in database: 652,114,680
+  Number of sequences in database:  33,996
+
+Lambda      K        H
+    1.33    0.621     1.12 
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+Matrix: blastn matrix:1 -2
+Gap Penalties: Existence: 0, Extension: 0
+Number of Sequences: 33996
+Number of Hits to DB: 65041
+Number of extensions: 0
+Number of successful extensions: 0
+Number of sequences better than 10: 0
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 0
+Number of HSP's successfully gapped: 0
+Length of query: 90460
+Length of database: 652114680
+Length adjustment: 34
+Effective length of query: 90426
+Effective length of database: 650958816
+Effective search space: 58863601895616
+Effective search space used: 58863601895616
+A: 0
+X1: 13 (25.0 bits)
+X2: 32 (59.1 bits)
+X3: 54 (99.7 bits)
+S1: 13 (25.1 bits)
+S2: 23 (43.6 bits)
+
+
+
+

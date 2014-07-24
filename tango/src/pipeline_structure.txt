@@ -1,0 +1,13 @@
+Functions for the nucleotide analysis pipeline
+These are tools to analyze large populations of phage, and should be called on large subsets
+
+1) calculate kmer deviation for a list of phage defined in a configuration file. 
+	1a) output a file of deviations for each kmer for each phage - optional 
+	1b) output a distance matrix -optional
+	1c) output a nexus file with distances between all phage - default behavior. 
+2) calclate kmer difference index for a list of phage defined in a configuration file
+	2a) produce a plot of first 10 sequences defined
+	2b) save a file with kmer difference index for each window
+
+	
+MOVE TO USING CSV FOR EVERYTHING

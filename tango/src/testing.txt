@@ -1,0 +1,36 @@
+## TESTING TANGO CODE
+
+# test each function of the compareTUD and compareTDI scripts
+
+### compareTUD
+## wtite to nexus file 
+python compareTUD.py testing\sequenced_phage_map_H60.txt testing\H60.nex
+## wite TUD values
+python compareTUD.py testing\sequenced_phage_map_H60.txt testing\H60.nex --s testing\H60.tud 
+## write distance matrix
+python compareTUD.py testing\sequenced_phage_map_H60.txt testing\H60.nex --d testing\H60.dist
+
+## different k values
+python compareTUD.py testing\sequenced_phage_map_A_1-3.txt testing\A2.nex --s testing\A2.tud --s testing\A2.tud --d testing\A2.dist --k 2
+python compareTUD.py testing\sequenced_phage_map_A_1-3.txt testing\A3.nex --s testing\A3.tud --s testing\A3.tud --d testing\A3.dist --k 3
+python compareTUD.py testing\sequenced_phage_map_A_1-3.txt testing\A4.nex --s testing\A4.tud --s testing\A4.tud --d testing\A4.dist --k 4
+python compareTUD.py testing\sequenced_phage_map_A_1-3.txt testing\A5.nex --s testing\A5.tud --s testing\A5.tud --d testing\A5.dist --k 5
+
+# output data for subset of Hatful 2010
+python compareTUD.py testing\sequenced_phage_map_H60.txt testing\H60.nex --d testing\H60.dist --s testing\H60.tud
+# try not using reverse complement - different results as expected 
+python compareTUD.py testing\sequenced_phage_map_H60.txt testing\H60r.nex --d testing\H60r.dist --s testing\H60r.tud --r False
+
+### compareTDI
+python compareTDI.py testing\sequenced_phage_map_A_1-3.txt testing\A4.tdi
+# plot
+python compareTDI.py testing\sequenced_phage_map_A_1-3.txt testing\A4.tdi --plotFile testing\A4.png --title "A phage, k=4"
+# window sizes 
+python compareTDI.py testing\sequenced_phage_map_A_1-3.txt testing\A4_500_250.tdi --plotFile testing\A4_500_250.png --title "A phage 500 window 250 step" --windowSize 500 --stepSize 250
+# L phage
+python compareTDI.py testing\sequenced_phage_map_L.txt testing\L4.tdi --plotFile testing\L4.png --title "L phage, k=4"
+# different k
+python compareTDI.py testing\sequenced_phage_map_L.txt testing\L2.tdi --plotFile testing\L2.png --title "L phage, k=2" --k 2
+python compareTDI.py testing\sequenced_phage_map_L.txt testing\L3.tdi --plotFile testing\L3.png --title "L phage, k=3" --k 3
+python compareTDI.py testing\sequenced_phage_map_L.txt testing\L5.tdi --plotFile testing\L5.png --title "L phage, k=5" --k 5
+python compareTDI.py testing\sequenced_phage_map_L.txt testing\L6.tdi --plotFile testing\L6.png --title "L phage, k=6" --k 6

@@ -1,0 +1,7 @@
+Butters(N)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Butters.fasta
+Carcharodon(N)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Carcharodon.fasta
+Charlie(N)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Charlie.fasta
+MichelleMyBell(N)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/MichelleMyBell.fasta
+Redi(N)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Redi.fasta
+SkinnyPete(N)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/SkinnyPete.fasta
+Xerxes(N)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Xerxes.fasta

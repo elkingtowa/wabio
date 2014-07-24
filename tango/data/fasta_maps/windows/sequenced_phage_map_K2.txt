@@ -1,0 +1,4 @@
+Milly(K2)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Milly.fasta
+Mufasa(K2)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/Mufasa.fasta
+TM4(K2)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/TM4.fasta
+ZoeJ(K2)	C:/Users/Admin/Dropbox/College/Junior/Phage Hunters TA/fasta/phage/ZoeJ.fasta

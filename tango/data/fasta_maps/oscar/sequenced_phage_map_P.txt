@@ -1,0 +1,10 @@
+BigNuz(P)	/users/bsiranos/projects/phage_fasta/BigNuz.fasta
+Bunnies(P)	/users/bsiranos/projects/phage_fasta/Bunnies.fasta
+Donovan(P)	/users/bsiranos/projects/phage_fasta/Donovan.fasta
+Fishburne(P)	/users/bsiranos/projects/phage_fasta/Fishburne.fasta
+HUHilltop(P)	/users/bsiranos/projects/phage_fasta/HUHilltop.fasta
+Jebeks(P)	/users/bsiranos/projects/phage_fasta/Jebeks.fasta
+Malithi(P)	/users/bsiranos/projects/phage_fasta/Malithi.fasta
+Phineas(P)	/users/bsiranos/projects/phage_fasta/Phineas.fasta
+Purky(P)	/users/bsiranos/projects/phage_fasta/Purky.fasta
+Shipwreck(P)	/users/bsiranos/projects/phage_fasta/Shipwreck.fasta

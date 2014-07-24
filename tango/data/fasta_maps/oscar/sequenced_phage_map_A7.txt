@@ -1,0 +1,3 @@
+HINdeR(A7)	/users/bsiranos/projects/phage_fasta/HINdeR.fasta
+Sheen(A7)	/users/bsiranos/projects/phage_fasta/Sheen.fasta
+Timshel(A7)	/users/bsiranos/projects/phage_fasta/Timshel.fasta

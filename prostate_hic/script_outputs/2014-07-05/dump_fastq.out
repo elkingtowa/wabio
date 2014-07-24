@@ -1,0 +1,43 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 309689
+##  Job Name : dump_fastq
+##  Nodelist : node068
+##      CPUs : 1
+##  Mem/Node : 16384 MB
+## Directory : /gpfs/home/bsiranos/projects/prostate_hic
+##   Started : Sat Jul  5 09:30:52 EDT 2014
+###############################################################################
+dumping SRR493814.sra
+Written 20269615 spots for SRR493814.sra
+Written 20269615 spots total
+dumping SRR493815.sra
+Written 42240098 spots for SRR493815.sra
+Written 42240098 spots total
+dumping SRR493816.sra
+Written 30055313 spots for SRR493816.sra
+Written 30055313 spots total
+dumping SRR493817.sra
+Written 28908565 spots for SRR493817.sra
+Written 28908565 spots total
+dumping SRR493818.sra
+Written 28663499 spots for SRR493818.sra
+Written 28663499 spots total
+dumping SRR493819.sra
+Written 34385473 spots for SRR493819.sra
+Written 34385473 spots total
+dumping SRR493820.sra
+Written 34116270 spots for SRR493820.sra
+Written 34116270 spots total
+dumping SRR493821.sra
+Written 28879192 spots for SRR493821.sra
+Written 28879192 spots total
+dumping SRR493822.sra
+Written 33311303 spots for SRR493822.sra
+Written 33311303 spots total
+dumping SRR493823.sra
+Written 33553106 spots for SRR493823.sra
+Written 33553106 spots total
+dumping SRR493824.sra
+Written 31009470 spots for SRR493824.sra
+Written 31009470 spots total
+dumping SRR493825.sra

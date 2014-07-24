@@ -1,0 +1,1023 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.2.29+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>61987</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>32</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>61987</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>32</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|367031533|ref|XM_003665002.1|</Hit_id>
+  <Hit_def>Myceliophthora thermophila ATCC 42464 hypothetical protein (MYCTH_2308347) mRNA, complete cds</Hit_def>
+  <Hit_accession>XM_003665002</Hit_accession>
+  <Hit_len>4420</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>39.157</Hsp_bit-score>
+      <Hsp_score>42</Hsp_score>
+      <Hsp_evalue>0.267646</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>26</Hsp_query-to>
+      <Hsp_hit-from>1251</Hsp_hit-from>
+      <Hsp_hit-to>1271</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>21</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>21</Hsp_align-len>
+      <Hsp_qseq>TCCCGGGCCGCCCCGGGTATC</Hsp_qseq>
+      <Hsp_hseq>TCCCGGGCCGCCCCGGGTATC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|347011998|gb|CP003006.1|</Hit_id>
+  <Hit_def>Myceliophthora thermophila ATCC 42464 chromosome 5, complete sequence</Hit_def>
+  <Hit_accession>CP003006</Hit_accession>
+  <Hit_len>4342007</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>39.157</Hsp_bit-score>
+      <Hsp_score>42</Hsp_score>
+      <Hsp_evalue>0.267646</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>26</Hsp_query-to>
+      <Hsp_hit-from>1678981</Hsp_hit-from>
+      <Hsp_hit-to>1678961</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>21</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>21</Hsp_align-len>
+      <Hsp_qseq>TCCCGGGCCGCCCCGGGTATC</Hsp_qseq>
+      <Hsp_hseq>TCCCGGGCCGCCCCGGGTATC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|523439782|gb|CP006252.1|</Hit_id>
+  <Hit_def>Serratia liquefaciens ATCC 27592, complete genome</Hit_def>
+  <Hit_accession>CP006252</Hit_accession>
+  <Hit_len>5238612</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.3537</Hsp_bit-score>
+      <Hsp_score>40</Hsp_score>
+      <Hsp_evalue>0.934176</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>29</Hsp_query-to>
+      <Hsp_hit-from>3669418</Hsp_hit-from>
+      <Hsp_hit-to>3669396</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>CCCGGGCCGCCCCGGGTATCTCG</Hsp_qseq>
+      <Hsp_hseq>CCCGGGTCGCCCCGGGTATCTCG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|470129041|ref|XM_004300390.1|</Hit_id>
+  <Hit_def>PREDICTED: Fragaria vesca subsp. vesca mitogen-activated protein kinase kinase kinase 1-like (LOC101294665), mRNA</Hit_def>
+  <Hit_accession>XM_004300390</Hit_accession>
+  <Hit_len>2442</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.3537</Hsp_bit-score>
+      <Hsp_score>40</Hsp_score>
+      <Hsp_evalue>0.934176</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>29</Hsp_query-to>
+      <Hsp_hit-from>456</Hsp_hit-from>
+      <Hsp_hit-to>432</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>25</Hsp_align-len>
+      <Hsp_qseq>CTCCCGGGCCGCCCCGGGTATCTCG</Hsp_qseq>
+      <Hsp_hseq>CTCCCAGGCCGCCTCGGGTATCTCG</Hsp_hseq>
+      <Hsp_midline>||||| ||||||| |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|83755449|gb|CP000159.1|</Hit_id>
+  <Hit_def>Salinibacter ruber DSM 13855, complete genome</Hit_def>
+  <Hit_accession>CP000159</Hit_accession>
+  <Hit_len>3551823</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.3537</Hsp_bit-score>
+      <Hsp_score>40</Hsp_score>
+      <Hsp_evalue>0.934176</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>32</Hsp_query-to>
+      <Hsp_hit-from>817305</Hsp_hit-from>
+      <Hsp_hit-to>817281</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>25</Hsp_align-len>
+      <Hsp_qseq>CCGGGCCGCCCCGGGTATCTCGTCG</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCGCCCCGAGTACCTCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||| ||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|573008719|dbj|AP013063.1|</Hit_id>
+  <Hit_def>Serratia marcescens SM39 DNA, complete genome</Hit_def>
+  <Hit_accession>AP013063</Hit_accession>
+  <Hit_len>5225577</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>29</Hsp_query-to>
+      <Hsp_hit-from>5101146</Hsp_hit-from>
+      <Hsp_hit-to>5101167</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>21</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>22</Hsp_align-len>
+      <Hsp_qseq>CCGGGCCGCCCCGGGTATCTCG</Hsp_qseq>
+      <Hsp_hseq>CCGGGTCGCCCCGGGTATCTCG</Hsp_hseq>
+      <Hsp_midline>||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|560171871|emb|HG326223.1|</Hit_id>
+  <Hit_def>Serratia marcescens subsp. marcescens Db11, complete genome</Hit_def>
+  <Hit_accession>HG326223</Hit_accession>
+  <Hit_len>5113802</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>29</Hsp_query-to>
+      <Hsp_hit-from>4993188</Hsp_hit-from>
+      <Hsp_hit-to>4993209</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>21</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>22</Hsp_align-len>
+      <Hsp_qseq>CCGGGCCGCCCCGGGTATCTCG</Hsp_qseq>
+      <Hsp_hseq>CCGGGTCGCCCCGGGTATCTCG</Hsp_hseq>
+      <Hsp_midline>||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|529195098|gb|CP006259.1|</Hit_id>
+  <Hit_def>Streptomyces collinus Tu 365, complete genome</Hit_def>
+  <Hit_accession>CP006259</Hit_accession>
+  <Hit_len>8272925</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>22</Hsp_query-to>
+      <Hsp_hit-from>5279112</Hsp_hit-from>
+      <Hsp_hit-to>5279091</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>21</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>22</Hsp_align-len>
+      <Hsp_qseq>CGATCTCCCGGGCCGCCCCGGG</Hsp_qseq>
+      <Hsp_hseq>CGATCTCCCGGGCCGCCCGGGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|513026600|ref|XM_004874406.1|</Hit_id>
+  <Hit_def>PREDICTED: Heterocephalus glaber TAF6-like RNA polymerase II, p300/CBP-associated factor (PCAF)-associated factor, 65kDa (Taf6l), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_004874406</Hit_accession>
+  <Hit_len>2420</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>31</Hsp_query-to>
+      <Hsp_hit-from>1998</Hsp_hit-from>
+      <Hsp_hit-to>1972</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CTCCCGGGCCGCCCCGGGTATCTCGTC</Hsp_qseq>
+      <Hsp_hseq>CTTCCGGGGCGCCCCGGGTAGCTCGTC</Hsp_hseq>
+      <Hsp_midline>|| ||||| ||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|513026598|ref|XM_004874405.1|</Hit_id>
+  <Hit_def>PREDICTED: Heterocephalus glaber TAF6-like RNA polymerase II, p300/CBP-associated factor (PCAF)-associated factor, 65kDa (Taf6l), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_004874405</Hit_accession>
+  <Hit_len>2287</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>31</Hsp_query-to>
+      <Hsp_hit-from>1865</Hsp_hit-from>
+      <Hsp_hit-to>1839</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CTCCCGGGCCGCCCCGGGTATCTCGTC</Hsp_qseq>
+      <Hsp_hseq>CTTCCGGGGCGCCCCGGGTAGCTCGTC</Hsp_hseq>
+      <Hsp_midline>|| ||||| ||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|513026596|ref|XM_004874404.1|</Hit_id>
+  <Hit_def>PREDICTED: Heterocephalus glaber TAF6-like RNA polymerase II, p300/CBP-associated factor (PCAF)-associated factor, 65kDa (Taf6l), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_004874404</Hit_accession>
+  <Hit_len>2344</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>31</Hsp_query-to>
+      <Hsp_hit-from>1922</Hsp_hit-from>
+      <Hsp_hit-to>1896</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CTCCCGGGCCGCCCCGGGTATCTCGTC</Hsp_qseq>
+      <Hsp_hseq>CTTCCGGGGCGCCCCGGGTAGCTCGTC</Hsp_hseq>
+      <Hsp_midline>|| ||||| ||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|513026594|ref|XM_004874403.1|</Hit_id>
+  <Hit_def>PREDICTED: Heterocephalus glaber TAF6-like RNA polymerase II, p300/CBP-associated factor (PCAF)-associated factor, 65kDa (Taf6l), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_004874403</Hit_accession>
+  <Hit_len>3239</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>31</Hsp_query-to>
+      <Hsp_hit-from>2817</Hsp_hit-from>
+      <Hsp_hit-to>2791</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CTCCCGGGCCGCCCCGGGTATCTCGTC</Hsp_qseq>
+      <Hsp_hseq>CTTCCGGGGCGCCCCGGGTAGCTCGTC</Hsp_hseq>
+      <Hsp_midline>|| ||||| ||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|513026592|ref|XM_004874402.1|</Hit_id>
+  <Hit_def>PREDICTED: Heterocephalus glaber TAF6-like RNA polymerase II, p300/CBP-associated factor (PCAF)-associated factor, 65kDa (Taf6l), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_004874402</Hit_accession>
+  <Hit_len>2495</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>31</Hsp_query-to>
+      <Hsp_hit-from>2073</Hsp_hit-from>
+      <Hsp_hit-to>2047</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CTCCCGGGCCGCCCCGGGTATCTCGTC</Hsp_qseq>
+      <Hsp_hseq>CTTCCGGGGCGCCCCGGGTAGCTCGTC</Hsp_hseq>
+      <Hsp_midline>|| ||||| ||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|512836085|ref|XM_004883319.1|</Hit_id>
+  <Hit_def>PREDICTED: Heterocephalus glaber TAF6-like RNA polymerase II, p300/CBP-associated factor (PCAF)-associated factor, 65kDa (Taf6l), mRNA</Hit_def>
+  <Hit_accession>XM_004883319</Hit_accession>
+  <Hit_len>1647</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>31</Hsp_query-to>
+      <Hsp_hit-from>1593</Hsp_hit-from>
+      <Hsp_hit-to>1567</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CTCCCGGGCCGCCCCGGGTATCTCGTC</Hsp_qseq>
+      <Hsp_hseq>CTTCCGGGGCGCCCCGGGTAGCTCGTC</Hsp_hseq>
+      <Hsp_midline>|| ||||| ||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|432160663|emb|FO203509.1|</Hit_id>
+  <Hit_def>Mycobacterium canettii CIPT 140070010 complete genome</Hit_def>
+  <Hit_accession>FO203509</Hit_accession>
+  <Hit_len>4525948</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>32</Hsp_query-to>
+      <Hsp_hit-from>3246493</Hsp_hit-from>
+      <Hsp_hit-to>3246462</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>29</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>33</Hsp_align-len>
+      <Hsp_qseq>CGATCTCCCGGGCCGCCCCGGGTATC-TCGTCG</Hsp_qseq>
+      <Hsp_hseq>CGATCTCCCGGGCCG-CCTGGGTTTCGTCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| || |||| || ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|364502974|ref|NM_001255994.1|</Hit_id>
+  <Hit_def>Mus musculus U box domain containing 5 (Ubox5), transcript variant 3, mRNA</Hit_def>
+  <Hit_accession>NM_001255994</Hit_accession>
+  <Hit_len>3753</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>90</Hsp_hit-from>
+      <Hsp_hit-to>72</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>19</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>19</Hsp_align-len>
+      <Hsp_qseq>TCCCGGGCCGCCCCGGGTA</Hsp_qseq>
+      <Hsp_hseq>TCCCGGGCCGCCCCGGGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|364502973|ref|NM_080562.5|</Hit_id>
+  <Hit_def>Mus musculus U box domain containing 5 (Ubox5), transcript variant 2, mRNA</Hit_def>
+  <Hit_accession>NM_080562</Hit_accession>
+  <Hit_len>3758</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>90</Hsp_hit-from>
+      <Hsp_hit-to>72</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>19</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>19</Hsp_align-len>
+      <Hsp_qseq>TCCCGGGCCGCCCCGGGTA</Hsp_qseq>
+      <Hsp_hseq>TCCCGGGCCGCCCCGGGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|364502971|ref|NM_001255993.1|</Hit_id>
+  <Hit_def>Mus musculus U box domain containing 5 (Ubox5), transcript variant 1, mRNA</Hit_def>
+  <Hit_accession>NM_001255993</Hit_accession>
+  <Hit_len>3900</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>90</Hsp_hit-from>
+      <Hsp_hit-to>72</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>19</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>19</Hsp_align-len>
+      <Hsp_qseq>TCCCGGGCCGCCCCGGGTA</Hsp_qseq>
+      <Hsp_hseq>TCCCGGGCCGCCCCGGGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|320123932|gb|CP002479.1|</Hit_id>
+  <Hit_def>Geobacter sp. M18, complete genome</Hit_def>
+  <Hit_accession>CP002479</Hit_accession>
+  <Hit_len>5277406</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>19</Hsp_query-to>
+      <Hsp_hit-from>1357786</Hsp_hit-from>
+      <Hsp_hit-to>1357768</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>19</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>19</Hsp_align-len>
+      <Hsp_qseq>CGATCTCCCGGGCCGCCCC</Hsp_qseq>
+      <Hsp_hseq>CGATCTCCCGGGCCGCCCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|311893446|dbj|AP010968.1|</Hit_id>
+  <Hit_def>Kitasatospora setae KM-6054 DNA, complete genome</Hit_def>
+  <Hit_accession>AP010968</Hit_accession>
+  <Hit_len>8783278</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>32</Hsp_query-to>
+      <Hsp_hit-from>562337</Hsp_hit-from>
+      <Hsp_hit-to>562306</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>32</Hsp_align-len>
+      <Hsp_qseq>CGATCTCCCGGGCCGCCCCGGGTATCTCGTCG</Hsp_qseq>
+      <Hsp_hseq>CGAACTCCCGGGCCGCCTCGGAGATCTTGTCG</Hsp_hseq>
+      <Hsp_midline>||| ||||||||||||| |||  |||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|311886853|emb|FN563149.1|</Hit_id>
+  <Hit_def>Rhodococcus equi 103S chromosome</Hit_def>
+  <Hit_accession>FN563149</Hit_accession>
+  <Hit_len>5043170</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>32</Hsp_query-to>
+      <Hsp_hit-from>3100451</Hsp_hit-from>
+      <Hsp_hit-to>3100482</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>32</Hsp_align-len>
+      <Hsp_qseq>CGATCTCCCGGGCCGCCCCGGGTATCTCGTCG</Hsp_qseq>
+      <Hsp_hseq>CGATCTCCCGGGCCGCGTCGGCGATCTCGGCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||  |||  |||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|256355458|gb|CP001700.1|</Hit_id>
+  <Hit_def>Catenulispora acidiphila DSM 44928, complete genome</Hit_def>
+  <Hit_accession>CP001700</Hit_accession>
+  <Hit_len>10467782</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>32</Hsp_query-to>
+      <Hsp_hit-from>3892779</Hsp_hit-from>
+      <Hsp_hit-to>3892810</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>32</Hsp_align-len>
+      <Hsp_qseq>CGATCTCCCGGGCCGCCCCGGGTATCTCGTCG</Hsp_qseq>
+      <Hsp_hseq>CGATCTCCCGGGAGACTCCGGGGATCTCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||   | ||||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|225703040|ref|NM_001146084.1|</Hit_id>
+  <Hit_def>Mus musculus FAST kinase domains 5 (Fastkd5), transcript variant 2, mRNA</Hit_def>
+  <Hit_accession>NM_001146084</Hit_accession>
+  <Hit_len>3127</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>79</Hsp_hit-from>
+      <Hsp_hit-to>61</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>19</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>19</Hsp_align-len>
+      <Hsp_qseq>TCCCGGGCCGCCCCGGGTA</Hsp_qseq>
+      <Hsp_hseq>TCCCGGGCCGCCCCGGGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|225703038|ref|NM_198176.2|</Hit_id>
+  <Hit_def>Mus musculus FAST kinase domains 5 (Fastkd5), transcript variant 1, mRNA</Hit_def>
+  <Hit_accession>NM_198176</Hit_accession>
+  <Hit_len>3164</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>79</Hsp_hit-from>
+      <Hsp_hit-to>61</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>19</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>19</Hsp_align-len>
+      <Hsp_qseq>TCCCGGGCCGCCCCGGGTA</Hsp_qseq>
+      <Hsp_hseq>TCCCGGGCCGCCCCGGGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|161158851|emb|AM746676.1|</Hit_id>
+  <Hit_def>Sorangium cellulosum &apos;So ce 56&apos; complete genome</Hit_def>
+  <Hit_accession>AM746676</Hit_accession>
+  <Hit_len>13033779</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>32</Hsp_query-to>
+      <Hsp_hit-from>7904859</Hsp_hit-from>
+      <Hsp_hit-to>7904831</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>29</Hsp_align-len>
+      <Hsp_qseq>TCTCCCGGGCCGCCCCGGGTATCTCGTCG</Hsp_qseq>
+      <Hsp_hseq>TCTCCCGGGCCGCCGCGAGGACCTCGTCG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| || | | |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|116696516|gb|CP000478.1|</Hit_id>
+  <Hit_def>Syntrophobacter fumaroxidans MPOB, complete genome</Hit_def>
+  <Hit_accession>CP000478</Hit_accession>
+  <Hit_len>4990251</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>19</Hsp_query-to>
+      <Hsp_hit-from>1757185</Hsp_hit-from>
+      <Hsp_hit-to>1757167</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>19</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>19</Hsp_align-len>
+      <Hsp_qseq>CGATCTCCCGGGCCGCCCC</Hsp_qseq>
+      <Hsp_hseq>CGATCTCCCGGGCCGCCCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|116608677|gb|CP000454.1|</Hit_id>
+  <Hit_def>Arthrobacter sp. FB24, complete genome</Hit_def>
+  <Hit_accession>CP000454</Hit_accession>
+  <Hit_len>4698945</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>31</Hsp_query-to>
+      <Hsp_hit-from>3073992</Hsp_hit-from>
+      <Hsp_hit-to>3074019</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>26</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>29</Hsp_align-len>
+      <Hsp_qseq>ATCTCCCGGGCCGCCCCGGGTATCTCGTC</Hsp_qseq>
+      <Hsp_hseq>ATCGCCCGGGTCGCCCCGGGTA-CTCGTC</Hsp_hseq>
+      <Hsp_midline>||| |||||| ||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|116222307|gb|CP000473.1|</Hit_id>
+  <Hit_def>Solibacter usitatus Ellin6076, complete genome</Hit_def>
+  <Hit_accession>CP000473</Hit_accession>
+  <Hit_len>9965640</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>32</Hsp_query-to>
+      <Hsp_hit-from>2144791</Hsp_hit-from>
+      <Hsp_hit-to>2144822</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>32</Hsp_align-len>
+      <Hsp_qseq>CGATCTCCCGGGCCGCCCCGGGTATCTCGTCG</Hsp_qseq>
+      <Hsp_hseq>CGATCTCCCGGTCCGCTCCCGGTAGTTCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||| |||| || ||||  ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|74180804|dbj|AK143929.1|</Hit_id>
+  <Hit_def>Mus musculus adult male kidney cDNA, RIKEN full-length enriched library, clone:F530001L15 product:hypothetical FAST kinase leucine-rich containing protein, full insert sequence</Hit_def>
+  <Hit_accession>AK143929</Hit_accession>
+  <Hit_len>3094</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>55</Hsp_hit-from>
+      <Hsp_hit-to>37</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>19</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>19</Hsp_align-len>
+      <Hsp_qseq>TCCCGGGCCGCCCCGGGTA</Hsp_qseq>
+      <Hsp_hseq>TCCCGGGCCGCCCCGGGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|74222718|dbj|AK171070.1|</Hit_id>
+  <Hit_def>Mus musculus NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630222D24 product:RING finger protein 37 (Ubiquitin conjugating enzyme 7 interacting protein 5) (UbcM4-interacting protein 5), full insert sequence</Hit_def>
+  <Hit_accession>AK171070</Hit_accession>
+  <Hit_len>2271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>57</Hsp_hit-from>
+      <Hsp_hit-to>39</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>19</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>19</Hsp_align-len>
+      <Hsp_qseq>TCCCGGGCCGCCCCGGGTA</Hsp_qseq>
+      <Hsp_hseq>TCCCGGGCCGCCCCGGGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|74206611|dbj|AK170100.1|</Hit_id>
+  <Hit_def>Mus musculus NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630016N17 product:RING finger protein 37 (Ubiquitin conjugating enzyme 7 interacting protein 5) (UbcM4-interacting protein 5), full insert sequence</Hit_def>
+  <Hit_accession>AK170100</Hit_accession>
+  <Hit_len>2135</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>66</Hsp_hit-from>
+      <Hsp_hit-to>48</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>19</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>19</Hsp_align-len>
+      <Hsp_qseq>TCCCGGGCCGCCCCGGGTA</Hsp_qseq>
+      <Hsp_hseq>TCCCGGGCCGCCCCGGGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|74199715|dbj|AK170024.1|</Hit_id>
+  <Hit_def>Mus musculus NOD-derived CD11c +ve dendritic cells cDNA, RIKEN full-length enriched library, clone:F630010C01 product:RING finger protein 37 (Ubiquitin conjugating enzyme 7 interacting protein 5) (UbcM4-interacting protein 5) homolog [Mus musculus], full insert sequence</Hit_def>
+  <Hit_accession>AK170024</Hit_accession>
+  <Hit_len>3136</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>82</Hsp_hit-from>
+      <Hsp_hit-to>64</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>19</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>19</Hsp_align-len>
+      <Hsp_qseq>TCCCGGGCCGCCCCGGGTA</Hsp_qseq>
+      <Hsp_hseq>TCCCGGGCCGCCCCGGGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|74192307|dbj|AK158052.1|</Hit_id>
+  <Hit_def>Mus musculus adult inner ear cDNA, RIKEN full-length enriched library, clone:F930021I22 product:RING finger protein 37 (Ubiquitin conjugating enzyme 7 interacting protein 5) (UbcM4-interacting protein 5), full insert sequence</Hit_def>
+  <Hit_accession>AK158052</Hit_accession>
+  <Hit_len>2506</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>30</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>19</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>19</Hsp_align-len>
+      <Hsp_qseq>TCCCGGGCCGCCCCGGGTA</Hsp_qseq>
+      <Hsp_hseq>TCCCGGGCCGCCCCGGGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|26329702|dbj|AK034114.1|</Hit_id>
+  <Hit_def>Mus musculus adult male diencephalon cDNA, RIKEN full-length enriched library, clone:9330157N04 product:ubiquitin conjugating enzyme 7 interacting protein 5, full insert sequence</Hit_def>
+  <Hit_accession>AK034114</Hit_accession>
+  <Hit_len>3685</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>39</Hsp_hit-from>
+      <Hsp_hit-to>21</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>19</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>19</Hsp_align-len>
+      <Hsp_qseq>TCCCGGGCCGCCCCGGGTA</Hsp_qseq>
+      <Hsp_hseq>TCCCGGGCCGCCCCGGGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|22265426|emb|AL731707.12|</Hit_id>
+  <Hit_def>Mouse DNA sequence from clone RP23-100C5 on chromosome 2, complete sequence</Hit_def>
+  <Hit_accession>AL731707</Hit_accession>
+  <Hit_len>205581</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>3.2606</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>177210</Hsp_hit-from>
+      <Hsp_hit-to>177228</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>19</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>19</Hsp_align-len>
+      <Hsp_qseq>TCCCGGGCCGCCCCGGGTA</Hsp_qseq>
+      <Hsp_hseq>TCCCGGGCCGCCCCGGGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>21804072</Statistics_db-num>
+      <Statistics_db-len>55319533174</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

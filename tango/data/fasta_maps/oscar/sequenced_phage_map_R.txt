@@ -1,0 +1,4 @@
+Nilo(R)	/users/bsiranos/projects/phage_fasta/Nilo.fasta
+Papyrus(R)	/users/bsiranos/projects/phage_fasta/Papyrus.fasta
+Send513(R)	/users/bsiranos/projects/phage_fasta/Send513.fasta
+Weiss13(R)	/users/bsiranos/projects/phage_fasta/Weiss13.fasta

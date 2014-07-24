@@ -1,0 +1,9 @@
+Browncna(B4)	/users/bsiranos/projects/phage_fasta/Browncna.fasta
+ChrisnMich(B4)	/users/bsiranos/projects/phage_fasta/ChrisnMich.fasta
+Cooper(B4)	/users/bsiranos/projects/phage_fasta/Cooper.fasta
+Frederick(B4)	/users/bsiranos/projects/phage_fasta/Frederick.fasta
+JAMaL(B4)	/users/bsiranos/projects/phage_fasta/JAMaL.fasta
+KayaCho(B4)	/users/bsiranos/projects/phage_fasta/KayaCho.fasta
+Nigel(B4)	/users/bsiranos/projects/phage_fasta/Nigel.fasta
+Stinger(B4)	/users/bsiranos/projects/phage_fasta/Stinger.fasta
+Zemanar(B4)	/users/bsiranos/projects/phage_fasta/Zemanar.fasta

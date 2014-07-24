@@ -1,0 +1,3 @@
+Acadian(B5)	/users/bsiranos/projects/phage_fasta/Acadian.fasta
+Phelemich(B5)	/users/bsiranos/projects/phage_fasta/Phelemich.fasta
+Reprobate(B5)	/users/bsiranos/projects/phage_fasta/Reprobate.fasta

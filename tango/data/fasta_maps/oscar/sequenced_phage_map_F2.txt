@@ -1,0 +1,5 @@
+Avani(F2)	/users/bsiranos/projects/phage_fasta/Avani.fasta
+Che9d(F2)	/users/bsiranos/projects/phage_fasta/Che9d.fasta
+Jabbawokkie(F2)	/users/bsiranos/projects/phage_fasta/Jabbawokkie.fasta
+Yoshi(F2)	/users/bsiranos/projects/phage_fasta/Yoshi.fasta
+Zapner(F2)	/users/bsiranos/projects/phage_fasta/Zapner.fasta
