@@ -140,6 +140,7 @@ class BlastConservationCalculator:
                 hsp_index += 1
         return cons_dict
 
+#handle connections to NCBI data
 class NCBIManager:
     def __init__(self, cache_dir):
         self._cache_dir = cache_dir
