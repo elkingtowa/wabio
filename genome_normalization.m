@@ -3,7 +3,7 @@
 M = importdata('12.15 caenorhabditis_elegans-scores.csv');
 B = importdata('12.15 caenorhabditis_elegans-ids.csv');
 
-% data referred to as A.data or B.data
+% data referred to as A.data or B.data or M.data
 
 % Normalize blast scores to C. elegans scores
 
