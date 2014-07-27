@@ -278,6 +278,7 @@ if nargin == 0 || isempty(varargin{1})
     error('not enough input arguments')
 end
 
+% way to upload data
 % check for axes handle
 if ~iscell(varargin{1}) && isscalar(varargin{1}) == 1 && ...
         ishandle(varargin{1}) && strcmp(get(varargin{1},'Type'),'axes')
