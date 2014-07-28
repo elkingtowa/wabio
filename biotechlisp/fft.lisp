@@ -559,4 +559,3 @@ returns:
 	  (append r*
 	     (loop for i from 1 to (- (expt 2 (1+ ip)) l) collect 0.0)))
 	r*)))
-
