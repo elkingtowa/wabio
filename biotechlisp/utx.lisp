@@ -594,5 +594,3 @@
         (subseq str p1 (position-if-not #'constituent
                                         str :start p1))
         nil)))
-
-
