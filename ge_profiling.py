@@ -46,5 +46,7 @@ rs = read.file( )
 
 #plot
 
+plt.yaxis
+plt.xaxis
 plt.plot
 plt.show
