@@ -96,10 +96,3 @@ def count_match(seq1, seq2):
 		else:
 			count -= 1 
 	return count
-	
-
-
-	
-
-
-
