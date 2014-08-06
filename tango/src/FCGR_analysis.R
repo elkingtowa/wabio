@@ -20,5 +20,3 @@ for (i in 1:dim(freqs)[1]){
 
 nameMat = matrix(colnames(freqs[,1:256]),nrow=16)
 write.table(nameMat,file='~/GitHub/tango/figures/with_reverse_complement/FCGR_heatmaps/heatmap_legend.tsv',sep='\t')
-
-  
