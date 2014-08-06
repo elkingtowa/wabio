@@ -458,6 +458,3 @@ def distance_to_mega(distanceFile, outFile, parseClusters):
 				toWrite += str(line[i]) + ' '
 			of.write(toWrite+'\n')
 			count += 1
-		
-
-
