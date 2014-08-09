@@ -18,7 +18,7 @@ def simulate(population, transaction_fn, interaction_fn, T, percentiles, record_
         if t % record_every == 0:
             results.append(record_percentiles(population, percentiles))
     return results
-
+    
 def report(distribution=gauss, transaction_fn=random_split, interaction_fn=anyone, N=N, mu=mu, T=5*N, 
            percentiles=(1, 10, 25, 33.3, 50, -33.3, -25, -10, -1), record_every=25):
     "Print and plot the results of the simulation running T steps." 
