@@ -46,6 +46,6 @@ def record_percentiles(population, percentiles):
 def percentile_name(p):
     return ('median' if p == 50 else 
             '{} {}%'.format(('top' if p > 0 else 'bot'), abs(p)))
-    
+
 def name(obj):
     return getattr(obj, '__name__', str(obj))
