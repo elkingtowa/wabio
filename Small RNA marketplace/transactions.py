@@ -1,4 +1,4 @@
-#ransaction rules will decide how to split up the pot of X+Y total wealth
+#transaction rules will decide how to split up the pot of X+Y total wealth
 
 def random_split(X, Y):
     "Take all the money in the pot and divide it randomly between X and Y."
