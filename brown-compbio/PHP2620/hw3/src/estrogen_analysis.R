@@ -169,5 +169,3 @@ g = ggplot(data=top4b, aes(x=logFC, y=-log10(adj.P.Val), colour=threshold)) +
   xlab("log2 fold change") + ylab("-log10 FDR") +ggtitle("Time effect estrogen")
 g
 dev.off()
-
-
