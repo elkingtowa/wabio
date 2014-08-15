@@ -48,7 +48,7 @@ cont.matrix = makeContrasts(IFN=IFN.gamma-control,
 fit1 = contrasts.fit(fit, cont.matrix)
 fit1 = eBayes(fit1)
 
-#get top 20 genes for each contrast. Default sorting is by B-statistic.
+#get top 20 genes for each contrast. Default sorting is by B-statistic
 top1 = topTable(fit1, coef=1,number=20)
 top2 = topTable(fit1, coef=2,number=20)
 top3 = topTable(fit1, coef=3,number=20)
