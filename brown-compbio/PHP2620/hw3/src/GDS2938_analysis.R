@@ -39,7 +39,7 @@ TS <- factor(TS)
 design <- model.matrix(~TS-1)
 colnames(design)<-c('control','IFN.gamma','IL1.beta','both')
 
-#lmFit to the data. 
+#lmFit to the data
 fit = lmFit(x,design)
 cont.matrix = makeContrasts(IFN=IFN.gamma-control,
                             IL1=IL1.beta-control,
