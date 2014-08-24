@@ -5,4 +5,4 @@ num_cores: 4
 url_timeout: 20
 evalue_thresh: 10
 blast_cmd: blastn
-blastdb_cmd: makeblastdb
+blastdb_cmd: makeblastd
