@@ -49,7 +49,7 @@ for unformattedName in nameList:
 	else:
 		print "phage " + phageName + " was downloaded previously"
 		successfullyDownloaded +=1
- 
+
 
 #displays results
 print "results: \n"
