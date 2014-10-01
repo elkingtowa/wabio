@@ -85,4 +85,3 @@ def makeHHneuron(name, par_args, ic_args, const_I=False,
         return Generator.Dopri_ODEsystem(DSargs)
     else:
         raise NotImplementedError("Unknown ODE system type: %s"%gentype)
-
